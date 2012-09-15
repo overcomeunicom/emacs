@@ -1,0 +1,2 @@
+setegid(${gid_t NEWGID});
+$0

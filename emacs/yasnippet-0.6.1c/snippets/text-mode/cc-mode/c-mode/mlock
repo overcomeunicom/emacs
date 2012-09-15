@@ -1,0 +1,2 @@
+mlock (${const void *ADDR},${size_t LEN});
+$0

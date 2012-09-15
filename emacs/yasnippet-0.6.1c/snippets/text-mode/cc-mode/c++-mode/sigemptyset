@@ -1,0 +1,2 @@
+sigemptyset(${sigset_t *SET});
+$0

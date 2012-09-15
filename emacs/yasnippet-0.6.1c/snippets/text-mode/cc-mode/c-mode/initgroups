@@ -1,0 +1,2 @@
+initgroups (${const char *USER},${gid_t GROUP});
+$0

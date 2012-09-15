@@ -1,0 +1,2 @@
+getline (${char **LINEPTR},${size_t *N},${FILE *STREAM});
+$0

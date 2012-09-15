@@ -1,0 +1,2 @@
+getpid(${void});
+$0

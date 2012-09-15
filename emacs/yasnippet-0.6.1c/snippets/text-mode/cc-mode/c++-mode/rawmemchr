@@ -1,0 +1,2 @@
+rawmemchr(${const void *BLOCK}, ${int C});
+$0

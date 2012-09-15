@@ -1,0 +1,2 @@
+wcschrnul(${const wchar_t *WSTRING}, ${wchar_t WC});
+$0

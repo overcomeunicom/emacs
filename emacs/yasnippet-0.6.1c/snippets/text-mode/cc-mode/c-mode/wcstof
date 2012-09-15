@@ -1,0 +1,2 @@
+wcstof (${const wchar_t *STRING},${wchar_t **TAILPTR});
+$0

@@ -1,0 +1,2 @@
+atoll (${const char *STRING});
+$0

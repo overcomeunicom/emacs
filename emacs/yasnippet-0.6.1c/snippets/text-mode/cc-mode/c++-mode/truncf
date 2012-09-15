@@ -1,0 +1,2 @@
+truncf(${float X});
+$0

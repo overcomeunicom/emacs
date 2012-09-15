@@ -1,0 +1,2 @@
+wcstombs (${char *STRING},${const wchar_t *WSTRING},${size_t SIZE});
+$0

@@ -1,0 +1,2 @@
+openlog (${const char *IDENT},${int OPTION},${int FACILITY});
+$0

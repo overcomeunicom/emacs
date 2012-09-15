@@ -1,0 +1,2 @@
+inet_ntop (${int AF},${const void *CP},${char *BUF},${size_t LEN});
+$0

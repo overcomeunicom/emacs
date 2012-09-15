@@ -1,0 +1,2 @@
+tanh(${double X});
+$0

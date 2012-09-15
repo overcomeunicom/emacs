@@ -1,0 +1,2 @@
+setenv(${const char *NAME}, ${const char *VALUE}, ${int REPLACE});
+$0

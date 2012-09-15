@@ -1,0 +1,2 @@
+alarm (${unsigned int SECONDS});
+$0

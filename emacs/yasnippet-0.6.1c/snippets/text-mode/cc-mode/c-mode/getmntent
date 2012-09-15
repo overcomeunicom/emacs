@@ -1,0 +1,2 @@
+getmntent (${FILE *STREAM});
+$0

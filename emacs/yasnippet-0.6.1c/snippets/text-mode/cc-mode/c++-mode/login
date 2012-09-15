@@ -1,0 +1,2 @@
+login(${const struct utmp *ENTRY});
+$0

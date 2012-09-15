@@ -1,0 +1,2 @@
+fgetpwent_r(${FILE *STREAM}, ${struct passwd *RESULT_BUF}, ${char *BUFFER}, ${size_t BUFLEN}, ${struct passwd **RESULT});
+$0

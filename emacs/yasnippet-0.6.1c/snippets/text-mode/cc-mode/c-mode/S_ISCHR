@@ -1,0 +1,2 @@
+S_ISCHR (${mode_t M});
+$0

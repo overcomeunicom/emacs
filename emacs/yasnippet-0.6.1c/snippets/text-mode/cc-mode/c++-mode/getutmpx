@@ -1,0 +1,2 @@
+getutmpx(${const struct utmp *utmp}, ${struct utmpx *utmpx});
+$0

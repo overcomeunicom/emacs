@@ -1,0 +1,2 @@
+pthread_condattr_init (${pthread_condattr_t *ATTR});
+$0

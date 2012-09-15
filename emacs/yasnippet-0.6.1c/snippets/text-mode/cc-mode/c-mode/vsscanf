@@ -1,0 +1,2 @@
+vsscanf (${const char *S},${const char *TEMPLATE},${va_list AP});
+$0

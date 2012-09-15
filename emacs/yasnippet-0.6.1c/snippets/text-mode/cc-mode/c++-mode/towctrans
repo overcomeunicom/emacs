@@ -1,0 +1,2 @@
+towctrans(${wint_t WC}, ${wctrans_t DESC});
+$0

@@ -1,0 +1,2 @@
+textdomain (${const char *DOMAINNAME});
+$0

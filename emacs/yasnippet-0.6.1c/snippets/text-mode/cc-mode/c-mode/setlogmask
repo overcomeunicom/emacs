@@ -1,0 +1,2 @@
+setlogmask (${int MASK});
+$0

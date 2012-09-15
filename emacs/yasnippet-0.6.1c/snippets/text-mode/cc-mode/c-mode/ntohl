@@ -1,0 +1,2 @@
+ntohl (${uint32_t NETLONG});
+$0

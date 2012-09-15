@@ -1,0 +1,2 @@
+wcstoll(${const wchar_t *restrict STRING}, ${wchar_t **restrict TAILPTR}, ${int BASE});
+$0

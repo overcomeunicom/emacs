@@ -1,0 +1,2 @@
+utmpname (${const char *FILE});
+$0

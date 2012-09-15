@@ -1,0 +1,2 @@
+WSTOPSIG(${int STATUS});
+$0

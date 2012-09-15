@@ -1,0 +1,2 @@
+strtoimax (${const char *restrict STRING},${char **restrict TAILPTR},${int BASE});
+$0

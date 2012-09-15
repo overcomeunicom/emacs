@@ -1,0 +1,2 @@
+obstack_object_size(${struct obstack *OBSTACK-PTR});
+$0

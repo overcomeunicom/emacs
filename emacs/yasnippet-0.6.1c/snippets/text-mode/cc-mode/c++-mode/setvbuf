@@ -1,0 +1,2 @@
+setvbuf(${FILE *STREAM}, ${char *BUF}, ${$$(yas/choose-value '("_IONBF" "_IOLBF" "_IOFBF"))}, ${size_t SIZE});
+$0

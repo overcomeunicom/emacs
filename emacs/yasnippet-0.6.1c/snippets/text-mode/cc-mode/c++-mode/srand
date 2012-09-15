@@ -1,0 +1,2 @@
+srand(${unsigned int SEED});
+$0

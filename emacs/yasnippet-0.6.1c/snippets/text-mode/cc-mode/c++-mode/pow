@@ -1,0 +1,2 @@
+pow(${double BASE}, ${double POWER});
+$0

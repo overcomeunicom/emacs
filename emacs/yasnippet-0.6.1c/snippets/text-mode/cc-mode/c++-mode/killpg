@@ -1,0 +1,2 @@
+killpg(${int PGID}, ${int SIGNUM});
+$0

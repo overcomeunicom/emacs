@@ -1,0 +1,2 @@
+strtok (${char *restrict NEWSTRING},${const char *restrict DELIMITERS});
+$0

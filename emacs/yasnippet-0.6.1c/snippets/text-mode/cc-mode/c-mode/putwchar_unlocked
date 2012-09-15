@@ -1,0 +1,2 @@
+putwchar_unlocked (${wchar_t WC});
+$0

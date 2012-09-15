@@ -1,0 +1,2 @@
+catopen(${const char *CAT_NAME}, ${2:$$(yas/choose-value '("0" "FD_CLOEXEC"))});
+$0

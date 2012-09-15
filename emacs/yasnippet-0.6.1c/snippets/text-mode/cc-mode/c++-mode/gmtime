@@ -1,0 +1,2 @@
+gmtime(${const time_t *TIME});
+$0

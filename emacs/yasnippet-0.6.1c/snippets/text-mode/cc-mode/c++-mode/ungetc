@@ -1,0 +1,2 @@
+ungetc(${int C}, ${FILE *STREAM});
+$0

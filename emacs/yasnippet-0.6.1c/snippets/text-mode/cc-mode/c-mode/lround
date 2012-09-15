@@ -1,0 +1,2 @@
+lround (${double X});
+$0

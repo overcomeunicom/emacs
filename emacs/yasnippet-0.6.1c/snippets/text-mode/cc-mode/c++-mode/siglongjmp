@@ -1,0 +1,2 @@
+siglongjmp(${sigjmp_buf STATE}, ${int VALUE});
+$0

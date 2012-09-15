@@ -1,0 +1,2 @@
+sprintf(${char *S}, ${const char *TEMPLATE}, ${...});
+$0

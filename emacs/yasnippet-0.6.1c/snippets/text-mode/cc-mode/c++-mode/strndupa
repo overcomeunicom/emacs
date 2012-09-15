@@ -1,0 +1,2 @@
+strndupa(${const char *S}, ${size_t SIZE});
+$0

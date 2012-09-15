@@ -1,0 +1,2 @@
+memrchr (${const void *BLOCK},${int C},${size_t SIZE});
+$0

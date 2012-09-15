@@ -1,0 +1,2 @@
+gcvt (${double VALUE},${int NDIGIT},${char *BUF});
+$0

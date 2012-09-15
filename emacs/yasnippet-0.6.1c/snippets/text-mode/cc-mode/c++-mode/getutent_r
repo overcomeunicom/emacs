@@ -1,0 +1,2 @@
+getutent_r(${struct utmp *BUFFER}, ${struct utmp **RESULT});
+$0

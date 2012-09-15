@@ -1,0 +1,2 @@
+isatty(${int FILEDES});
+$0

@@ -1,0 +1,2 @@
+hcreate_r (${size_t NEL},${struct hsearch_data *HTAB});
+$0

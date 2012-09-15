@@ -1,0 +1,2 @@
+tcgetattr(${int FILEDES}, ${struct termios *TERMIOS-P});
+$0

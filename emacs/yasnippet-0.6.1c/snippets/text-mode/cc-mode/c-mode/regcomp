@@ -1,0 +1,2 @@
+regcomp (${regex_t *COMPILED},${const char *PATTERN},${int CFLAGS});
+$0

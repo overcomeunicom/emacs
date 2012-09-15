@@ -1,0 +1,2 @@
+putpwent(${const struct passwd *P}, ${FILE *STREAM});
+$0

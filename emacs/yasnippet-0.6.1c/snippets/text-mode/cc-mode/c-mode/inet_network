@@ -1,0 +1,2 @@
+inet_network (${const char *NAME});
+$0

@@ -1,0 +1,2 @@
+gethostbyaddr (${const char *ADDR},${size_t LENGTH},${int FORMAT});
+$0

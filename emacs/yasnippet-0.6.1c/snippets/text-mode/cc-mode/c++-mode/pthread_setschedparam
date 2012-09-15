@@ -1,0 +1,2 @@
+pthread_setschedparam(${pthread_t target_THREAD}, ${$$(yas/choose-value '("SCHED_OTHER" "SCHED_BATCH" "SCHED_IDLE" "SCHED_FIFO" "SCHED_RR"))}, ${const struct sched_param *PARAM});
+$0

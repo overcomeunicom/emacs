@@ -1,0 +1,2 @@
+feenableexcept(${int EXCEPTS});
+$0

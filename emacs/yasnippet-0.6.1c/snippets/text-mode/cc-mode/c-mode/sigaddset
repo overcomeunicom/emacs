@@ -1,0 +1,2 @@
+sigaddset (${sigset_t *SET},${int SIGNUM});
+$0

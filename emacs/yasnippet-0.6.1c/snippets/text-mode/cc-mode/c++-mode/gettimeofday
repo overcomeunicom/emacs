@@ -1,0 +1,2 @@
+gettimeofday(${struct timeval *TP}, ${struct timezone *TZP});
+$0

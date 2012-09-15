@@ -1,0 +1,2 @@
+strcasecmp(${const char *S1}, ${const char *S2});
+$0

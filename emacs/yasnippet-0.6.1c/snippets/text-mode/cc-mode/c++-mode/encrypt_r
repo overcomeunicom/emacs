@@ -1,0 +1,2 @@
+encrypt_r(${char *BLOCK}, ${int EDFLAG}, ${struct crypt_data * DATA});
+$0

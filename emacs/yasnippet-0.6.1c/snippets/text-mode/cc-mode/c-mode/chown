@@ -1,0 +1,2 @@
+chown (${const char *FILENAME},${uid_t OWNER},${gid_t GROUP});
+$0

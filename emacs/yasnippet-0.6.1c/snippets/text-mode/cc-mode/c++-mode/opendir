@@ -1,0 +1,2 @@
+opendir(${const char *DIRNAME});
+$0

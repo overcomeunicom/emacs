@@ -1,0 +1,2 @@
+setutxent(${void});
+$0

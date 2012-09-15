@@ -1,0 +1,2 @@
+pthread_sigmask(${int HOW}, ${const sigset_t *NEWMASK}, ${sigset_t *OLDMASK});
+$0

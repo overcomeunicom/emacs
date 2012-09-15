@@ -1,0 +1,2 @@
+cfmakeraw(${struct termios *TERMIOS-P});
+$0

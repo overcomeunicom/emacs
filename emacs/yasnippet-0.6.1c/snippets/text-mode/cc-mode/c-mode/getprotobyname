@@ -1,0 +1,2 @@
+getprotobyname (${const char *NAME});
+$0

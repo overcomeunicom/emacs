@@ -1,0 +1,2 @@
+mbsrtowcs (${wchar_t *restrict DST},${const char **restrict SRC},${size_t LEN},${mbstate_t *restrict PS});
+$0

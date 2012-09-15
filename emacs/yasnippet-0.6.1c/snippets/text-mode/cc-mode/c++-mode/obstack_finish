@@ -1,0 +1,2 @@
+obstack_finish(${struct obstack *OBSTACK-PTR});
+$0

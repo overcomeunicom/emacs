@@ -1,0 +1,2 @@
+glob (${const char *PATTERN},${int FLAGS},${int(${*ERRFUNC${)(${const char *FILENAME},${int ERROR-CODE${)},${glob_t *VECTOR-PTR});
+$0

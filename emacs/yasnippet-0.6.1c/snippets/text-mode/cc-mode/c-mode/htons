@@ -1,0 +1,2 @@
+htons (${uint16_t HOSTSHORT});
+$0

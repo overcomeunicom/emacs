@@ -1,0 +1,2 @@
+ntp_adjtime (${struct timex *TPTR});
+$0

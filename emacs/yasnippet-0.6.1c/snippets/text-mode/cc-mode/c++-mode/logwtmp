@@ -1,0 +1,2 @@
+logwtmp(${const char *UT_LINE}, ${const char *UT_NAME}, ${const char *UT_HOST});
+$0

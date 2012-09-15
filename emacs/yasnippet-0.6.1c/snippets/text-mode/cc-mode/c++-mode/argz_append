@@ -1,0 +1,2 @@
+argz_append(${char **ARGZ}, ${size_t *ARGZ_LEN}, ${const char *BUF}, ${size_t BUF_LEN});
+$0

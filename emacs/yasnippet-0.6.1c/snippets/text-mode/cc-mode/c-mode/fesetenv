@@ -1,0 +1,2 @@
+fesetenv (${const fenv_t *ENVP});
+$0

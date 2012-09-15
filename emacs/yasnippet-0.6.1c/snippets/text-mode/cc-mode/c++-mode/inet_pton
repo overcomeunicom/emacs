@@ -1,0 +1,2 @@
+inet_pton(${$$(yas/choose-value '("AF_INET" "AF_INET6"))}, ${const char *CP}, ${void *BUF});
+$0

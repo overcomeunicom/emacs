@@ -1,0 +1,2 @@
+getutline (${const struct utmp *LINE});
+$0

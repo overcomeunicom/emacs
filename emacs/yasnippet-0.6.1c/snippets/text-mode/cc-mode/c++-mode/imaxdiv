@@ -1,0 +1,2 @@
+imaxdiv(${intmax_t NUMERATOR}, ${intmax_t DENOMINATOR});
+$0

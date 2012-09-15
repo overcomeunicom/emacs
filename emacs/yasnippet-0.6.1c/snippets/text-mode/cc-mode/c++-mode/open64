@@ -1,0 +1,2 @@
+open64(${const char *FILENAME}, ${$$(yas/choose-value '("O_RDONLY" "O_WRONLY" "O_RDWR" "O_CREAT" "O_EXCL" "O_NOCTTY" "O_TRUNC" "O_APPEND" "O_ASYNC" "O_CLOEXEC" "O_DIRECT" "O_DIRECTORY" "O_LARGEFILE" "O_NONBLOCK" "O_NOFOLLOW"))}, ${$$(yas/choose-value '("S_IRWXU" "S_IRUSR" "S_IWUSR" "S_IXUSR" "S_IRWXG" "S_IRGRP" "S_IWGRP" "S_IXGRP" "S_IRWXO" "S_IROTH" "S_IWOTH" "S_IXOTH"))});
+$0

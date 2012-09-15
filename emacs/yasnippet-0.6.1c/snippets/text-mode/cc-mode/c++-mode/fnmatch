@@ -1,0 +1,2 @@
+fnmatch(${const char *PATTERN}, ${const char *STRING}, ${int FLAGS});
+$0

@@ -1,0 +1,2 @@
+innetgr(${const char *NETGROUP}, ${const char *HOST}, ${const char *USER}, ${const char *DOMAIN});
+$0

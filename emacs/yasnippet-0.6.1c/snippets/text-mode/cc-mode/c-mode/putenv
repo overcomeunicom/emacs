@@ -1,0 +1,2 @@
+putenv (${char *STRING});
+$0

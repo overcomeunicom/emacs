@@ -1,0 +1,2 @@
+getopt_long_only(${int ARGC}, ${char *const *ARGV}, ${const char *SHORTOPTS}, ${const struct option *LONGOPTS}, ${int *INDEXPTR});
+$0

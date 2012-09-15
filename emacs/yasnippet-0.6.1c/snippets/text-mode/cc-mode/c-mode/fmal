@@ -1,0 +1,2 @@
+fmal (${long double X},${long double Y},${long double Z});
+$0

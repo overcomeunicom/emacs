@@ -1,0 +1,2 @@
+fgetc_unlocked (${FILE *STREAM});
+$0

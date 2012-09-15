@@ -1,0 +1,2 @@
+getnetgrent_r(${char **HOSTP}, ${char **USERP}, ${char **DOMAINP}, ${char *BUFFER}, ${int BUFLEN});
+$0

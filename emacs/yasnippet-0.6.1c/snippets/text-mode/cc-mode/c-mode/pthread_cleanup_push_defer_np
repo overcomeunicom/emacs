@@ -1,0 +1,2 @@
+pthread_cleanup_push_defer_np (${void(${*ROUTINE${)(${void *${)},${void *ARG});
+$0

@@ -1,0 +1,2 @@
+fseek (${FILE *STREAM},${long int OFFSET},${int WHENCE});
+$0

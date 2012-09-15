@@ -1,0 +1,2 @@
+cfgetispeed(${const struct termios *TERMIOS-P});
+$0

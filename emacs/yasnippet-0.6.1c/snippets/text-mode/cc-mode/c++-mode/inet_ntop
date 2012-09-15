@@ -1,0 +1,2 @@
+inet_ntop(${$$(yas/choose-value '("AF_INET" "AF_INET6"))}, ${const void *CP}, ${char *BUF}, ${size_t LEN});
+$0

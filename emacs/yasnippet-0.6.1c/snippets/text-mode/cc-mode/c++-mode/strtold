@@ -1,0 +1,2 @@
+strtold(${const char *STRING}, ${char **TAILPTR});
+$0

@@ -1,0 +1,2 @@
+clearenv(${void});
+$0

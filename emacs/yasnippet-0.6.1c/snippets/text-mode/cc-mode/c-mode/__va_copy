@@ -1,0 +1,2 @@
+__va_copy (${va_list DEST},${va_list SRC});
+$0

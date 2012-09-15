@@ -1,0 +1,2 @@
+wait3 (${union wait *STATUS-PTR},${int OPTIONS},${struct rusage *USAGE});
+$0

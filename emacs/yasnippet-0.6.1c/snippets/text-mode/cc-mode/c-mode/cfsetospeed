@@ -1,0 +1,2 @@
+cfsetospeed (${struct termios *TERMIOS-P},${speed_t SPEED});
+$0

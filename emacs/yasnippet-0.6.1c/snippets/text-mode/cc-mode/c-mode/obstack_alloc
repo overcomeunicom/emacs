@@ -1,0 +1,2 @@
+obstack_alloc (${struct obstack *OBSTACK-PTR},${int SIZE});
+$0

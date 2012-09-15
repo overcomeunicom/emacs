@@ -1,0 +1,2 @@
+warnx (${const char *FORMAT},${...});
+$0

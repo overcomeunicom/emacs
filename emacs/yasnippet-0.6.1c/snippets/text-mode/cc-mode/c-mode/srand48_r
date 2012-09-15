@@ -1,0 +1,2 @@
+srand48_r (${long int SEEDVAL},${struct drand48_data *BUFFER});
+$0

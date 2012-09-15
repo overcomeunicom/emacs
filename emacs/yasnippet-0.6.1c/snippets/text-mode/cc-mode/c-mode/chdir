@@ -1,0 +1,2 @@
+chdir (${const char *FILENAME});
+$0

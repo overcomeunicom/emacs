@@ -1,0 +1,2 @@
+obstack_grow0(${struct obstack *OBSTACK-PTR}, ${void *DATA}, ${int SIZE});
+$0

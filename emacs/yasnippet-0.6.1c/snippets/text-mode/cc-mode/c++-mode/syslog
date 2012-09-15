@@ -1,0 +1,2 @@
+syslog(${int FACILITY_PRIORITY}, ${char *FORMAT}, ${...});
+$0

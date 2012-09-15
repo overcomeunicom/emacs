@@ -1,0 +1,2 @@
+ftw (${const char *FILENAME},${__ftw_func_t FUNC},${int DESCRIPTORS});
+$0

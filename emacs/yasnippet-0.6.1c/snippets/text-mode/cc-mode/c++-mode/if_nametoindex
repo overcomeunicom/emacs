@@ -1,0 +1,2 @@
+if_nametoindex(${const char *ifname});
+$0

@@ -1,0 +1,2 @@
+logout (${const char *UT_LINE});
+$0

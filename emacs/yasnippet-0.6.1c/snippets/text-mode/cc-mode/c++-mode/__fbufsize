@@ -1,0 +1,2 @@
+__fbufsize(${FILE *STREAM});
+$0

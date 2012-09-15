@@ -1,0 +1,2 @@
+sigsetmask (${int MASK});
+$0

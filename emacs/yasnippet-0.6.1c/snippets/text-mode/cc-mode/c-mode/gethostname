@@ -1,0 +1,2 @@
+gethostname (${char *NAME},${size_t SIZE});
+$0

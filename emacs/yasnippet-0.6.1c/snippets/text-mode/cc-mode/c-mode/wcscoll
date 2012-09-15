@@ -1,0 +1,2 @@
+wcscoll (${const wchar_t *WS1},${const wchar_t *WS2});
+$0

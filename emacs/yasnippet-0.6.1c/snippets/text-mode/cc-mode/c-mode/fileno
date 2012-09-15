@@ -1,0 +1,2 @@
+fileno (${FILE *STREAM});
+$0

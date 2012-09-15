@@ -1,0 +1,2 @@
+mmap (${void *ADDRESS},${size_t LENGTH},${int PROTECT},${int FLAGS},${int FILEDES},${off_t OFFSET});
+$0

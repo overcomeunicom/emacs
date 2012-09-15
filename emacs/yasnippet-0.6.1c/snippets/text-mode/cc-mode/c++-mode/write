@@ -1,0 +1,2 @@
+write(${int FILEDES}, ${const void *BUFFER}, ${size_t SIZE});
+$0

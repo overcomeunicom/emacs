@@ -1,0 +1,2 @@
+free(${void *PTR});
+$0

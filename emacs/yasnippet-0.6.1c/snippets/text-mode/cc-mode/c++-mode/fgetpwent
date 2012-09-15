@@ -1,0 +1,2 @@
+fgetpwent(${FILE *STREAM});
+$0

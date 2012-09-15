@@ -1,0 +1,2 @@
+envz_strip (${char **ENVZ},${size_t *ENVZ_LEN});
+$0

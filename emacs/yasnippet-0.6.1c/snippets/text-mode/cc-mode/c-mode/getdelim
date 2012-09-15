@@ -1,0 +1,2 @@
+getdelim (${char **LINEPTR},${size_t *N},${int DELIMITER},${FILE *STREAM});
+$0

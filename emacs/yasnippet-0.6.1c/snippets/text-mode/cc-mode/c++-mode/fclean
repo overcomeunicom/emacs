@@ -1,0 +1,2 @@
+fclean(${FILE *STREAM});
+$0

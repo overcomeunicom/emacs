@@ -1,0 +1,2 @@
+msync(${void *ADDRESS}, ${size_t LENGTH}, ${$$(yas/choose-value '("MS_ASYNC" "MS_SYNC" "MS_INVALIDATE"))});
+$0

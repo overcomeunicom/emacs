@@ -1,0 +1,2 @@
+strfry(${char *STRING});
+$0

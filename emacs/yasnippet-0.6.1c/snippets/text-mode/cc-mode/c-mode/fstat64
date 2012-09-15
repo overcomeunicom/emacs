@@ -1,0 +1,2 @@
+fstat64 (${int FILEDES},${struct stat64 *BUF});
+$0

@@ -1,0 +1,2 @@
+getpriority (${int CLASS},${int ID});
+$0

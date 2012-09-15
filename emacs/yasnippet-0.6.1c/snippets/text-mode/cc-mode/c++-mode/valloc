@@ -1,0 +1,2 @@
+valloc(${size_t SIZE});
+$0

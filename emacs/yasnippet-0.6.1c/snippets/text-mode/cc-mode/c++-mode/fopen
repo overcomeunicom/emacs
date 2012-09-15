@@ -1,0 +1,4 @@
+#name : fopen ...
+# --
+fopen(${const char *FILENAME}, ${$$(yas/choose-value '("r" "r+" "w" "w+" "a" "a+"))});
+$0

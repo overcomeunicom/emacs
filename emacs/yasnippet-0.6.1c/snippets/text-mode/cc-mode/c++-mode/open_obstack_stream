@@ -1,0 +1,2 @@
+open_obstack_stream(${struct obstack *OBSTACK});
+$0

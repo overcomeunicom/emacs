@@ -1,0 +1,2 @@
+fchown(${int FILEDES}, ${int OWNER}, ${int GROUP});
+$0

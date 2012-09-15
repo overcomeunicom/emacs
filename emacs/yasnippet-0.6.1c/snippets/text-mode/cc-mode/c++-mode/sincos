@@ -1,0 +1,2 @@
+sincos(${double X}, ${double *SINX}, ${double *COSX});
+$0

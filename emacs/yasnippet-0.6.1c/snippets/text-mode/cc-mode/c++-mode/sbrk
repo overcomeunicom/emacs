@@ -1,0 +1,2 @@
+sbrk(${ptrdiff_t DELTA});
+$0

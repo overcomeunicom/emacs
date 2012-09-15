@@ -1,0 +1,2 @@
+obstack_copy(${struct obstack *OBSTACK-PTR}, ${void *ADDRESS}, ${int SIZE});
+$0

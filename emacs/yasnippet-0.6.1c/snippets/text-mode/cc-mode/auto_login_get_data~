@@ -1,0 +1,8 @@
+#!/usr/bin/expect
+spawn /usr/bin/ssh -Y ric@127.0.0.1
+expect {
+  "Password:" {
+	send "root\r"
+   }
+}
+

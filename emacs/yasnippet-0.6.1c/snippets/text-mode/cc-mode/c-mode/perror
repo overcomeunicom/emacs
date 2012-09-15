@@ -1,0 +1,2 @@
+perror (${const char *MESSAGE});
+$0

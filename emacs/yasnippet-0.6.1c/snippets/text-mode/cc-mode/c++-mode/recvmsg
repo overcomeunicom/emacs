@@ -1,0 +1,2 @@
+recvmsg(${int SOCKET}, ${struct msghdr *MESSAGE}, ${$$(yas/choose-value "MSG_CMSG_CLOEXEC" "MSG_DONTWAIT" "MSG_ERRQUEUE" "MSG_OOB" "MSG_PEEK" "MSG_TRUNC" "MSG_WAITALL")});
+$0

@@ -1,0 +1,2 @@
+regexec(${regex_t *COMPILED}, ${char *STRING}, ${size_t NMATCH}, ${regmatch_t MATCHPTR []}, ${$$(yas/choose-value '("REG_EXTENDED" "REG_ICASE" "REG_NOSUB" "REG_NEWLINE"))});
+$0

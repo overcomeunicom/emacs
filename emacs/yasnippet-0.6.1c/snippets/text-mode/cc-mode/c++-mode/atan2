@@ -1,0 +1,2 @@
+atan2(${double Y}, ${double X});
+$0

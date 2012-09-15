@@ -1,0 +1,2 @@
+socketpair (${int NAMESPACE},${int STYLE},${int PROTOCOL},${int FILEDES[2]});
+$0

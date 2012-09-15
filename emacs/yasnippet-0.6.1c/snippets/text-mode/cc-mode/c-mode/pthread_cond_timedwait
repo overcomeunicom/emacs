@@ -1,0 +1,2 @@
+pthread_cond_timedwait (${pthread_cond_t *COND},${pthread_mutex_t *MUTEX},${const struct timespec *ABSTIME});
+$0

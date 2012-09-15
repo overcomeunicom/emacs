@@ -1,0 +1,2 @@
+forkpty (${int *AMASTER},${char *NAME},${struct termios *TERMP},${struct winsize *WINP});
+$0

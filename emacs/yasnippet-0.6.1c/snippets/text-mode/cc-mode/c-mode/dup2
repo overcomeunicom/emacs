@@ -1,0 +1,2 @@
+dup2 (${int OLD},${int NEW});
+$0

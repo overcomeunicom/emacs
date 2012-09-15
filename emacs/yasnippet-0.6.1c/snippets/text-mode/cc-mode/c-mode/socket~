@@ -1,0 +1,2 @@
+socket (${int NAMESPACE},${int STYLE},${int PROTOCOL});
+$0

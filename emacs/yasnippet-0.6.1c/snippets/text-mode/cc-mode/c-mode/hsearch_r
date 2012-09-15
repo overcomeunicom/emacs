@@ -1,0 +1,2 @@
+hsearch_r (${ENTRY ITEM},${ACTION ACTION},${ENTRY **RETVAL},${struct hsearch_data *HTAB});
+$0

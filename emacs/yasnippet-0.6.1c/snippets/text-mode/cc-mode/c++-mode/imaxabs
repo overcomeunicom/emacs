@@ -1,0 +1,2 @@
+imaxabs(${intmax_t NUMBER});
+$0

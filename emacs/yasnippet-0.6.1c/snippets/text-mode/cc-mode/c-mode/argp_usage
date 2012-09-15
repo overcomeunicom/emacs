@@ -1,0 +1,2 @@
+argp_usage (${const struct argp_state *STATE});
+$0

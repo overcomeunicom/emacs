@@ -1,0 +1,2 @@
+lrand48_r (${struct drand48_data *BUFFER},${double *RESULT});
+$0

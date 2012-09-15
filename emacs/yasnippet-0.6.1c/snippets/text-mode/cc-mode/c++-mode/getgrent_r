@@ -1,0 +1,2 @@
+getgrent_r(${struct group *RESULT_BUF}, ${char *BUFFER}, ${size_t BUFLEN}, ${struct group **RESULT});
+$0

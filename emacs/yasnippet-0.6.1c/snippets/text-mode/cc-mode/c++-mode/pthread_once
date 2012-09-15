@@ -1,0 +1,2 @@
+pthread_once(${pthread_once_t *once_CONTROL}, ${void(${*INIT_ROUTINE${)(${void${)});
+$0

@@ -1,0 +1,2 @@
+sincosl (${long double X},${long double *SINX},${long double *COSX});
+$0

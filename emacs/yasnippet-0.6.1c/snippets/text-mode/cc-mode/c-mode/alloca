@@ -1,0 +1,2 @@
+alloca (${size_t SIZE});
+$0

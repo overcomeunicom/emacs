@@ -1,0 +1,2 @@
+fpathconf (${int FILEDES},${int PARAMETER});
+$0

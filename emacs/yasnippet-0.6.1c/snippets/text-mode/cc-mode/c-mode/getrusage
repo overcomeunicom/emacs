@@ -1,0 +1,2 @@
+getrusage (${int PROCESSES},${struct rusage *RUSAGE});
+$0

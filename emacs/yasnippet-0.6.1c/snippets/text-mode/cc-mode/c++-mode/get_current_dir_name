@@ -1,0 +1,2 @@
+get_current_dir_name(${void});
+$0

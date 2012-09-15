@@ -1,0 +1,2 @@
+sigstack(${const struct sigstack *STACK}, ${struct sigstack *OLDSTACK});
+$0

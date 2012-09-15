@@ -1,0 +1,2 @@
+CPU_ZERO(${cpu_set_t *SET});
+$0

@@ -1,0 +1,2 @@
+error_at_line(${int STATUS}, ${int ERRNUM}, ${const char *FNAME}, ${unsigned int LINENO}, ${const char *FORMAT}, ${...});
+$0

@@ -1,0 +1,2 @@
+sched_getaffinity(${pid_t PID}, ${size_t CPUSETSIZE}, ${cpu_set_t *CPUSET});
+$0

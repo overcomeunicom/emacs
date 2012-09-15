@@ -1,0 +1,2 @@
+memalign(${size_t BOUNDARY}, ${size_t SIZE});
+$0

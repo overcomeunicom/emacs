@@ -1,0 +1,2 @@
+fmodf(${float NUMERATOR}, ${float DENOMINATOR});
+$0

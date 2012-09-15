@@ -1,0 +1,2 @@
+vswprintf (${wchar_t *S},${size_t SIZE},${const wchar_t *TEMPLATE},${va_list AP});
+$0

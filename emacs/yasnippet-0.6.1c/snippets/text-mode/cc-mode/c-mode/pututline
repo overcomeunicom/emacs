@@ -1,0 +1,2 @@
+pututline (${const struct utmp *UTMP});
+$0

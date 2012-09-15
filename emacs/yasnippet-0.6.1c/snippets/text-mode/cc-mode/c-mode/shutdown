@@ -1,0 +1,2 @@
+shutdown (${int SOCKET},${int HOW});
+$0

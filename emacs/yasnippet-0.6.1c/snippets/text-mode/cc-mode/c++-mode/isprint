@@ -1,0 +1,2 @@
+isprint(${int C});
+$0

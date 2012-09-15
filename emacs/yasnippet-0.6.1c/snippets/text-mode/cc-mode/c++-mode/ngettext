@@ -1,0 +1,2 @@
+ngettext(${const char *MSGID1}, ${const char *MSGID2}, ${unsigned long int N});
+$0

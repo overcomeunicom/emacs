@@ -1,0 +1,2 @@
+sigpause(${int MASK});
+$0

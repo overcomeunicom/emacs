@@ -1,0 +1,2 @@
+WRDE_DOOFFSwordexp(${const char *WORDS}, ${wordexp_t *WORD-VECTOR-PTR}, ${$$(yas/choose-value '("WRDE_APPEND" "WRDE_NOCMD" "WRDE_REUSE" "WRDE_SHOWERR" "WRDE_UNDEF"))});
+$0

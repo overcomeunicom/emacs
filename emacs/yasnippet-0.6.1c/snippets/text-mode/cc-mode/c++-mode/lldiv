@@ -1,0 +1,2 @@
+lldiv(${long long int NUMERATOR}, ${long long int DENOMINATOR});
+$0

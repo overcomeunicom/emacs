@@ -1,0 +1,2 @@
+sched_setscheduler (${pid_t PID},${int POLICY},${const struct sched_param *PARAM});
+$0

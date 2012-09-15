@@ -1,0 +1,2 @@
+rewind (${FILE *STREAM});
+$0

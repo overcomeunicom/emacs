@@ -1,0 +1,3 @@
+<div align="${2:$$(yas/choose-value '("right" "center" "left"))}">
+  $0
+</div>

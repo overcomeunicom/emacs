@@ -1,0 +1,2 @@
+pthread_cond_signal(${pthread_cond_t *COND});
+$0

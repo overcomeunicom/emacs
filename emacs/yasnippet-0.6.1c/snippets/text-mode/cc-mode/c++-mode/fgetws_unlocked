@@ -1,0 +1,2 @@
+fgetws_unlocked(${wchar_t *WS}, ${int COUNT}, ${FILE *STREAM});
+$0

@@ -1,0 +1,2 @@
+umount2 (${const char *FILE},${int FLAGS});
+$0

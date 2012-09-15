@@ -1,0 +1,2 @@
+alphasort64 (${const void *A},${const void *B});
+$0

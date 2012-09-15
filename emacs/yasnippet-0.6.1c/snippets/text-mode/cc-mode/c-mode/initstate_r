@@ -1,0 +1,2 @@
+initstate_r (${unsigned int SEED},${char *restrict STATEBUF},${size_t STATELEN},${struct random_data *restrict BUF});
+$0

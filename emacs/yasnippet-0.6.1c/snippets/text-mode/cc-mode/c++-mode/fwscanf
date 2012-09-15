@@ -1,0 +1,2 @@
+fwscanf(${FILE *STREAM}, ${const wchar_t *TEMPLATE}, ${...});
+$0

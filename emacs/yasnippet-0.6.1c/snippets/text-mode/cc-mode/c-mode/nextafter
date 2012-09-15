@@ -1,0 +1,2 @@
+nextafter (${double X},${double Y});
+$0

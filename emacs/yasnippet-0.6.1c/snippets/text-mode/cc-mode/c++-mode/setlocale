@@ -1,0 +1,2 @@
+setlocale(${$$(yas/choose-value '("LC_ALL" "LC_COLLATE" "LC_CTYPE" "LC_MESSAGES" "LC_MONETARY" "LC_NUMERIC" "LC_TIME"))}, ${const char *LOCALE});
+$0

@@ -1,0 +1,2 @@
+log1p (${double X});
+$0

@@ -1,0 +1,2 @@
+nrand48_r(${unsigned short int XSUBI[3]}, ${struct drand48_data *BUFFER}, ${long int *RESULT});
+$0

@@ -1,0 +1,2 @@
+getservbyport(${int PORT}, ${const char *PROTO});
+$0

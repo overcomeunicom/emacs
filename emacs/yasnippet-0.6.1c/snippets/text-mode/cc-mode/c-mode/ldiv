@@ -1,0 +1,2 @@
+ldiv (${long int NUMERATOR},${long int DENOMINATOR});
+$0

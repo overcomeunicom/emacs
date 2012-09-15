@@ -1,0 +1,2 @@
+exit(${int STATUS});
+$0

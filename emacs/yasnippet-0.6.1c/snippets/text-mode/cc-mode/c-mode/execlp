@@ -1,0 +1,2 @@
+execlp (${const char *FILENAME},${const char *ARG0},${...});
+$0

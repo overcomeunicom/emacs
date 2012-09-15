@@ -1,0 +1,11 @@
+#!/usr/bin/expect
+# spawn /usr/bin/ssh -Y root@127.0.0.1
+# expect {
+#   "root@127.0.0.1's password:" {
+# 	send "twtpedcwy\r"
+#    }
+# }
+# sleep 10
+spawn /home/ric/emacs/yasnippet-0.6.1c/snippets/text-mode/cc-mode/check.sh
+
+

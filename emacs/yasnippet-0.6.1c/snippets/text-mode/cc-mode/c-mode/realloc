@@ -1,0 +1,2 @@
+realloc (${void *PTR},${size_t NEWSIZE});
+$0

@@ -1,0 +1,2 @@
+mknod (${const char *FILENAME},${int MODE},${int DEV});
+$0

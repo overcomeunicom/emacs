@@ -1,0 +1,2 @@
+setprotoent(${int STAYOPEN});
+$0

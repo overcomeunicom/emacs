@@ -1,0 +1,2 @@
+clearerr (${FILE *STREAM});
+$0

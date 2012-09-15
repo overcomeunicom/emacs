@@ -1,0 +1,2 @@
+pthread_cond_wait(${pthread_cond_t *COND}, ${pthread_mutex_t *MUTEX});
+$0

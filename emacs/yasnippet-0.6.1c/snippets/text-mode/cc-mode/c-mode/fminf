@@ -1,0 +1,2 @@
+fminf (${float X},${float Y});
+$0

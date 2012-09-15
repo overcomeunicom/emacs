@@ -1,0 +1,2 @@
+getpwuid(${uid_t UID});
+$0

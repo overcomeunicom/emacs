@@ -1,0 +1,2 @@
+fmemopen (${void *BUF},${size_t SIZE},${const char *OPENTYPE});
+$0

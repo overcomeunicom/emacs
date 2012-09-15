@@ -1,0 +1,2 @@
+ftell (${FILE *STREAM});
+$0

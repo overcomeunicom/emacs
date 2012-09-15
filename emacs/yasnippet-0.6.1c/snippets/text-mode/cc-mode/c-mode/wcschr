@@ -1,0 +1,2 @@
+wcschr (${const wchar_t *WSTRING},${int WC});
+$0

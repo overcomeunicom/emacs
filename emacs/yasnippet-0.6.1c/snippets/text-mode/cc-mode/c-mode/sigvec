@@ -1,0 +1,2 @@
+sigvec (${int SIGNUM},${const struct sigvec *ACTION},${struct sigvec *OLD-ACTION});
+$0

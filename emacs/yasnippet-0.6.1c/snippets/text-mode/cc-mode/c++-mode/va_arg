@@ -1,0 +1,2 @@
+va_arg(${va_list AP}, ${TYPE});
+$0

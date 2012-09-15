@@ -1,0 +1,2 @@
+obstack_chunk_size(${struct obstack *OBSTACK-PTR});
+$0

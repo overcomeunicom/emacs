@@ -1,0 +1,2 @@
+funlockfile (${FILE *STREAM});
+$0

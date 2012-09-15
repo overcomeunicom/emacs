@@ -1,0 +1,2 @@
+pthread_create(${pthread_t * THREAD}, ${pthread_attr_t * ATTR}, ${void *(${*START_ROUTINE${)(${void *${)}, ${void * ARG});
+$0

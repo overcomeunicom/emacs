@@ -1,0 +1,2 @@
+makecontext (${ucontext_t *UCP},${void(${*FUNC${)(${void${)},${int ARGC},${...});
+$0

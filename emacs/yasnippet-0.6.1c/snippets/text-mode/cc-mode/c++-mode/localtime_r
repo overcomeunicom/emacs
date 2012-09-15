@@ -1,0 +1,2 @@
+localtime_r(${const time_t *TIME}, ${struct tm *RESULTP});
+$0

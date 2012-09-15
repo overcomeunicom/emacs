@@ -1,0 +1,2 @@
+login_tty(${int FILEDES});
+$0

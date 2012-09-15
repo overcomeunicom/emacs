@@ -1,0 +1,2 @@
+gettext(${const char *MSGID});
+$0

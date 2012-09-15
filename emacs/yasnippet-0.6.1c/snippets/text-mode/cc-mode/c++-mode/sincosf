@@ -1,0 +1,2 @@
+sincosf(${float X}, ${float *SINX}, ${float *COSX});
+$0

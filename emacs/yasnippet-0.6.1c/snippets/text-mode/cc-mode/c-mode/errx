@@ -1,0 +1,2 @@
+errx (${int STATUS},${const char *FORMAT},${...});
+$0

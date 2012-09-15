@@ -1,0 +1,2 @@
+msync (${void *ADDRESS},${size_t LENGTH},${int FLAGS});
+$0

@@ -1,0 +1,2 @@
+lcong48_r(${unsigned short int PARAM[7]}, ${struct drand48_data *BUFFER});
+$0

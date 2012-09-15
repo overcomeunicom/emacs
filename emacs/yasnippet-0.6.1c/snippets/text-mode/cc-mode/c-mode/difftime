@@ -1,0 +1,2 @@
+difftime (${time_t TIME1},${time_t TIME0});
+$0

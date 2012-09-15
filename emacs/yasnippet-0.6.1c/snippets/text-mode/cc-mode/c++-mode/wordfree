@@ -1,0 +1,2 @@
+wordfree(${wordexp_t *WORD-VECTOR-PTR});
+$0

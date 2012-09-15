@@ -1,0 +1,2 @@
+getdate(${const char *STRING});
+$0

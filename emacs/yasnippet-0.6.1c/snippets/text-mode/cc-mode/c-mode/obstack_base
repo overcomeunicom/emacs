@@ -1,0 +1,2 @@
+obstack_base (${struct obstack *OBSTACK-PTR});
+$0

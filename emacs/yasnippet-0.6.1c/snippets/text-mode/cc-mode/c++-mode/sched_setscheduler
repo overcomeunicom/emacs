@@ -1,0 +1,2 @@
+sched_setscheduler(${pid_t PID}, ${$$(yas/choose-value '("SCHED_OTHER" "SCHED_BATCH" "SCHED_IDLE" "SCHED_FIFO" "SCHED_RR"))}, ${const struct sched_param *PARAM});
+$0

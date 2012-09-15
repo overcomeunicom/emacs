@@ -1,0 +1,2 @@
+seteuid(${uid_t NEWEUID});
+$0

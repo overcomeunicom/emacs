@@ -1,0 +1,2 @@
+pthread_mutexattr_settype (${pthread_mutexattr_t *ATTR},${int TYPE});
+$0

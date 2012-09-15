@@ -1,0 +1,2 @@
+catopen (${const char *CAT_NAME},${int FLAG});
+$0

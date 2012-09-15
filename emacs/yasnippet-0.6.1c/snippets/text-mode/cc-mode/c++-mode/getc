@@ -1,0 +1,2 @@
+getc(${FILE *STREAM});
+$0

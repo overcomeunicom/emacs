@@ -1,0 +1,2 @@
+aio_init(${const struct aioinit *INIT});
+$0

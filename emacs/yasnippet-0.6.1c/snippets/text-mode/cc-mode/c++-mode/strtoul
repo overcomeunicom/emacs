@@ -1,0 +1,2 @@
+strtoul(${const char *retrict STRING}, ${char **restrict TAILPTR}, ${int BASE});
+$0

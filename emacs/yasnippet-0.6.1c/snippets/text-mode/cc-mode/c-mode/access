@@ -1,0 +1,2 @@
+access (${const char *FILENAME},${int HOW});
+$0

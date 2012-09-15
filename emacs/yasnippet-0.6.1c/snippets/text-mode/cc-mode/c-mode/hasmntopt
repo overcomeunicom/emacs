@@ -1,0 +1,2 @@
+hasmntopt (${const struct mntent *MNT},${const char *OPT});
+$0

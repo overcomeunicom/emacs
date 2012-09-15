@@ -1,0 +1,2 @@
+fseeko (${FILE *STREAM},${off_t OFFSET},${int WHENCE});
+$0

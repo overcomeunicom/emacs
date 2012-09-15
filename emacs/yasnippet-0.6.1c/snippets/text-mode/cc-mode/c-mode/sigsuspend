@@ -1,0 +1,2 @@
+sigsuspend (${const sigset_t *SET});
+$0

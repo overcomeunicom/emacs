@@ -1,0 +1,2 @@
+pthread_key_create (${pthread_key_t *KEY},${void(${*destr_function${)(${void *${)});
+$0

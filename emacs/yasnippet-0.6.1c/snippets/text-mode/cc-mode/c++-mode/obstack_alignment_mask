@@ -1,0 +1,2 @@
+obstack_alignment_mask(${struct obstack *OBSTACK-PTR});
+$0

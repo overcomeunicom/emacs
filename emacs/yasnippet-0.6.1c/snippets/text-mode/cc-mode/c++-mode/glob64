@@ -1,0 +1,2 @@
+glob64(${const char *PATTERN}, ${int FLAGS}, ${int(${*ERRFUNC${)(${const char *FILENAME}, ${int ERROR-CODE${)}, ${glob64_t *VECTOR-PTR});
+$0

@@ -1,0 +1,2 @@
+sendto(${int SOCKET}, ${void *BUFFER. size_t SIZE}, ${$$(yas/choose-value '("MSG_CONFIRM" "MSG_DONTROUTE" "MSG_DONTWAIT" "MSG_EOR" "MSG_MORE" "MSG_NOSIGNAL" "MSG_OOB"))}, ${struct sockaddr *ADDR}, ${socklen_t LENGTH});
+$0

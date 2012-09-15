@@ -1,0 +1,2 @@
+error(${int STATUS}, ${int ERRNUM}, ${const char *FORMAT}, ${...});
+$0

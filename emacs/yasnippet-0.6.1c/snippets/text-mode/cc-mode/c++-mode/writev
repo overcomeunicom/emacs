@@ -1,0 +1,2 @@
+writev(${int FILEDES}, ${const struct iovec *VECTOR}, ${int COUNT});
+$0

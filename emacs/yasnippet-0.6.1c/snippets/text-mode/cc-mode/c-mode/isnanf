@@ -1,0 +1,2 @@
+isnanf (${float X});
+$0

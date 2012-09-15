@@ -1,0 +1,2 @@
+globfree64(${glob64_t *PGLOB});
+$0

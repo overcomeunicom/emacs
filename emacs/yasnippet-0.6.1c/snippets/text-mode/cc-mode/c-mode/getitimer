@@ -1,0 +1,2 @@
+getitimer (${int WHICH},${struct itimerval *OLD});
+$0

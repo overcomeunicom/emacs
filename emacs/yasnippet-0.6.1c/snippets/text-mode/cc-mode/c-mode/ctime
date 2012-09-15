@@ -1,0 +1,2 @@
+ctime (${const time_t *TIME});
+$0

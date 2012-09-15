@@ -1,0 +1,2 @@
+tmpnam_r (${char *RESULT});
+$0

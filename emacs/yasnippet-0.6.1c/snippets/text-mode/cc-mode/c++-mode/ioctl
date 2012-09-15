@@ -1,0 +1,2 @@
+ioctl(${int FILEDES}, ${int COMMAND}, ${...});
+$0

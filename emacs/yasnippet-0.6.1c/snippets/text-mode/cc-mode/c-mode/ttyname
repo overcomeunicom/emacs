@@ -1,0 +1,2 @@
+ttyname (${int FILEDES});
+$0

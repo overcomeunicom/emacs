@@ -1,0 +1,2 @@
+srandom_r(${unsigned int SEED}, ${struct random_data *BUF});
+$0

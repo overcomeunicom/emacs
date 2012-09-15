@@ -1,0 +1,2 @@
+jnl (${int n},${long double X});
+$0

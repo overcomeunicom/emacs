@@ -1,0 +1,2 @@
+readdir64_r(${DIR *DIRSTREAM}, ${struct dirent64 *ENTRY}, ${struct dirent64 **RESULT});
+$0

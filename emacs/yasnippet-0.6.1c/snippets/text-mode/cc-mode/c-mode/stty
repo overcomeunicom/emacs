@@ -1,0 +1,2 @@
+stty (${int FILEDES},${struct sgttyb * attributes});
+$0

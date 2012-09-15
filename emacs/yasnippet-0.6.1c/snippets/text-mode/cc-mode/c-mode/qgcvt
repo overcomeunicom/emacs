@@ -1,0 +1,2 @@
+qgcvt (${long double VALUE},${int NDIGIT},${char *BUF});
+$0

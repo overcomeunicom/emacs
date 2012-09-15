@@ -1,0 +1,2 @@
+setrlimit64 (${int RESOURCE},${const struct rlimit64 *RLP});
+$0

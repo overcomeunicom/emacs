@@ -1,0 +1,2 @@
+ctime_r(${const time_t *TIME}, ${char *BUFFER});
+$0

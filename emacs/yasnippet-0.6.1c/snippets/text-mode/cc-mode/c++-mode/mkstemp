@@ -1,0 +1,2 @@
+mkstemp(${char *TEMPLATE});
+$0

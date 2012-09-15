@@ -1,0 +1,2 @@
+strpbrk(${const char *STRING}, ${const char *STOPSET});
+$0

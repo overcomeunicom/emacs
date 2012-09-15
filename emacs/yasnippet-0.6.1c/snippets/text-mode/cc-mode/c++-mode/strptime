@@ -1,0 +1,2 @@
+strptime(${const char *S}, ${const char *FMT}, ${struct tm *TP});
+$0

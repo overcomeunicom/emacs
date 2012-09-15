@@ -1,0 +1,2 @@
+pthread_mutexattr_destroy(${pthread_mutexattr_t *ATTR});
+$0

@@ -1,0 +1,2 @@
+system(${const char *COMMAND});
+$0

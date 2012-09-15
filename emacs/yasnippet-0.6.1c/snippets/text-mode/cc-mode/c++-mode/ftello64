@@ -1,0 +1,2 @@
+ftello64(${FILE *STREAM});
+$0

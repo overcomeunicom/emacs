@@ -1,0 +1,2 @@
+getsockopt(${int SOCKET}, ${SOL_SOCKET}, ${int OPTNAME}, ${void *OPTVAL}, ${socklen_t *OPTLEN-PTR});
+$0

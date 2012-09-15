@@ -1,0 +1,2 @@
+scandir64 (${const char *DIR},${struct dirent64 ***NAMELIST},${int(${*SELECTOR${)(${const struct dirent64 *${)},${int(${*CMP${)(${const void *},${const void *${)});
+$0

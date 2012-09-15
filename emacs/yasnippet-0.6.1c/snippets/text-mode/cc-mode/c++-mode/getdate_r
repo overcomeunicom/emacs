@@ -1,0 +1,2 @@
+getdate_r(${const char *STRING}, ${struct tm *TP});
+$0

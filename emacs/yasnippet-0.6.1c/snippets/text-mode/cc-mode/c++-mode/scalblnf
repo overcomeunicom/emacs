@@ -1,0 +1,2 @@
+scalblnf(${float X}, ${long int n});
+$0

@@ -1,0 +1,2 @@
+sigsetjmp (${sigjmp_buf STATE},${int SAVESIGS});
+$0

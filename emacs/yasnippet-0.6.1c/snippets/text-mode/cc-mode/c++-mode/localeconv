@@ -1,0 +1,2 @@
+localeconv(${void});
+$0

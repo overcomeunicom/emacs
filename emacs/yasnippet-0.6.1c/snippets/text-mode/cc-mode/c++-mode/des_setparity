@@ -1,0 +1,2 @@
+des_setparity(${char *KEY});
+$0

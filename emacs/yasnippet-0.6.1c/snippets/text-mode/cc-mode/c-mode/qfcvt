@@ -1,0 +1,2 @@
+qfcvt (${long double VALUE},${int NDIGIT},${int *DECPT},${int *NEG});
+$0

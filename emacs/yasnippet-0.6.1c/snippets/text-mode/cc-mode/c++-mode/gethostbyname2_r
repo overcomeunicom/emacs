@@ -1,0 +1,2 @@
+gethostbyname2_r(${const char *NAME}, ${$$(yas/choose-value '("AF_INET" "AF_INET6"))}, ${struct hostent *restrict RESULT_BUF}, ${char *restrict BUF}, ${size_t BUFLEN}, ${struct hostent **restrict RESULT}, ${int *restrict H_ERRNOP});
+$0

@@ -1,0 +1,2 @@
+madvise (${void *ADDR},${size_t LENGTH},${int ADVICE});
+$0

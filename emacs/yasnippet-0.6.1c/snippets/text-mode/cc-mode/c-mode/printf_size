@@ -1,0 +1,2 @@
+printf_size (${FILE *FP},${const struct printf_info *INFO},${const void *const *ARGS});
+$0

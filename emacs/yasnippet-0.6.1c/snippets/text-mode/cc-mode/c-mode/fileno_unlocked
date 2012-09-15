@@ -1,0 +1,2 @@
+fileno_unlocked (${FILE *STREAM});
+$0

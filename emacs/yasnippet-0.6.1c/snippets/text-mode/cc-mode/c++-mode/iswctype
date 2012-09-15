@@ -1,0 +1,2 @@
+iswctype(${wint_t WC}, ${wctype_t DESC});
+$0

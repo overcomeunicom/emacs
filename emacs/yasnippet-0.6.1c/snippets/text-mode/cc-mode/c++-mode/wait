@@ -1,0 +1,2 @@
+wait(${int *STATUS-PTR});
+$0

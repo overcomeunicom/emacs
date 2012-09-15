@@ -1,0 +1,2 @@
+asprintf (${char **PTR},${const char *TEMPLATE},${...});
+$0

@@ -1,0 +1,2 @@
+open (${const char *FILENAME},${int FLAGS[},${mode_t MODE]});
+$0

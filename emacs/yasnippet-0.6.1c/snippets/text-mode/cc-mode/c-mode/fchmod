@@ -1,0 +1,2 @@
+fchmod (${int FILEDES},${int MODE});
+$0

@@ -1,0 +1,2 @@
+setrlimit (${int RESOURCE},${const struct rlimit *RLP});
+$0

@@ -1,0 +1,2 @@
+strsignal(${int SIGNUM});
+$0

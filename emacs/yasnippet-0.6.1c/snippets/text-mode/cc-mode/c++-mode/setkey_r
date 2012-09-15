@@ -1,0 +1,2 @@
+setkey_r(${const char *KEY}, ${struct crypt_data * DATA});
+$0

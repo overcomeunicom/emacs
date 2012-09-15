@@ -1,0 +1,2 @@
+envz_get (${const char *ENVZ},${size_t ENVZ_LEN},${const char *NAME});
+$0

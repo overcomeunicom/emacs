@@ -1,0 +1,2 @@
+lseek(${int FILEDES}, ${off_t OFFSET}, ${$$(yas/choose-value '("SEEK_SET" "SEEK_END" "SEEK_CUR"))});
+$0

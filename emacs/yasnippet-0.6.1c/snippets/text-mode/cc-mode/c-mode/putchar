@@ -1,0 +1,2 @@
+putchar (${int C});
+$0

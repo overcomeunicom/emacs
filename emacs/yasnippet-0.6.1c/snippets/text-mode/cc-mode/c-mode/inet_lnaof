@@ -1,0 +1,2 @@
+inet_lnaof (${struct in_addr ADDR});
+$0

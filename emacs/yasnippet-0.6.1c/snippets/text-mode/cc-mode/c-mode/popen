@@ -1,0 +1,2 @@
+popen (${const char *COMMAND},${const char *MODE});
+$0

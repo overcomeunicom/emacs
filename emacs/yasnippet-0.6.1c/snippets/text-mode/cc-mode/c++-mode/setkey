@@ -1,0 +1,2 @@
+setkey(${const char *KEY});
+$0

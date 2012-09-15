@@ -1,0 +1,3 @@
+#name : viterator
+# --
+vector<${1:Key}>::iterator $0

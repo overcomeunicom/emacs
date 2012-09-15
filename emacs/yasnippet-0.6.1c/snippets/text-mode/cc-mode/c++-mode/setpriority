@@ -1,0 +1,2 @@
+setpriority(${$$(yas/choose-value '("PRIO_PROCESS" "PRIO_PGRP" "PRIO_USER"))}, ${int ID}, ${int NICEVAL});
+$0

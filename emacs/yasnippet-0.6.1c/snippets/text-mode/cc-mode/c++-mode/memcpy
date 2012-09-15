@@ -1,0 +1,2 @@
+memcpy(${void *restrict TO}, ${const void *restrict FROM}, ${size_t SIZE});
+$0

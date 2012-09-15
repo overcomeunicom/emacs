@@ -1,0 +1,2 @@
+timegm (${struct tm *BROKENTIME});
+$0

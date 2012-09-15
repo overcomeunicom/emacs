@@ -1,0 +1,4 @@
+#name : CPU_ISSET
+# --
+CPU_ISSET(${int CPU}, ${const cpu_set_t *SET});
+$0

@@ -1,0 +1,2 @@
+setreuid(${uid_t RUID}, ${uid_t EUID});
+$0

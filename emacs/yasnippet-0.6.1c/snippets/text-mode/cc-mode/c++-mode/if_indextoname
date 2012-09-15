@@ -1,0 +1,2 @@
+if_indextoname(${unsigned int ifindex}, ${char *ifname});
+$0

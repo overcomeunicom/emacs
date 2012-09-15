@@ -1,0 +1,2 @@
+inet_addr(${const char *NAME});
+$0

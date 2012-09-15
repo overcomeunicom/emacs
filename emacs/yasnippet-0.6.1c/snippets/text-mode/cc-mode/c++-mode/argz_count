@@ -1,0 +1,2 @@
+argz_count(${const char *ARGZ}, ${size_t ARG_LEN});
+$0

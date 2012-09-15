@@ -1,0 +1,2 @@
+ntohs (${uint16_t NETSHORT});
+$0

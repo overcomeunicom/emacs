@@ -1,0 +1,2 @@
+getutline_r(${const struct utmp *LINE}, ${struct utmp *BUFFER}, ${struct utmp **RESULT});
+$0

@@ -1,0 +1,2 @@
+strtok_r(${char *NEWSTRING}, ${const char *DELIMITERS}, ${char **SAVE_PTR});
+$0

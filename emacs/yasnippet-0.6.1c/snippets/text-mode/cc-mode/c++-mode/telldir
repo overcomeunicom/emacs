@@ -1,0 +1,2 @@
+telldir(${DIR *DIRSTREAM});
+$0

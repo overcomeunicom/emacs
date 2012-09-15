@@ -1,0 +1,2 @@
+rename (${const char *OLDNAME},${const char *NEWNAME});
+$0

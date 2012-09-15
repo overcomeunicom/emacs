@@ -1,0 +1,2 @@
+modf(${double VALUE}, ${double *INTEGER-PART});
+$0

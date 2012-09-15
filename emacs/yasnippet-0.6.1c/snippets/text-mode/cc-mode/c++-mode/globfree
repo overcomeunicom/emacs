@@ -1,0 +1,2 @@
+globfree(${glob_t *PGLOB});
+$0

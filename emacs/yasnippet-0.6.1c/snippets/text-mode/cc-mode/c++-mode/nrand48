@@ -1,0 +1,2 @@
+nrand48(${unsigned short int XSUBI[3]});
+$0

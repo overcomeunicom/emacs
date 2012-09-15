@@ -1,0 +1,2 @@
+gethostbyaddr(${const char *ADDR}, ${size_t LENGTH}, ${$$(yas/choose-value '("AF_INET" "AF_INET6"))});
+$0

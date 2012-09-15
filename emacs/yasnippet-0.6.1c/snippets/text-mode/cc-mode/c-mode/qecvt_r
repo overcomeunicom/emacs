@@ -1,0 +1,2 @@
+qecvt_r (${long double VALUE},${int NDIGIT},${int *DECPT},${int *NEG},${char *BUF},${size_t LEN});
+$0

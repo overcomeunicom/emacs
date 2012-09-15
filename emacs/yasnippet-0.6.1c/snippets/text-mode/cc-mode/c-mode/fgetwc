@@ -1,0 +1,2 @@
+fgetwc (${FILE *STREAM});
+$0

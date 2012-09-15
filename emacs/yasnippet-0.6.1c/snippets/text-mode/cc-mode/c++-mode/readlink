@@ -1,0 +1,2 @@
+readlink(${const char *FILENAME}, ${char *BUFFER}, ${size_t SIZE});
+$0

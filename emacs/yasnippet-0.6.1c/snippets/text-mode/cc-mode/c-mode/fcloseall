@@ -1,0 +1,2 @@
+fcloseall (${void});
+$0

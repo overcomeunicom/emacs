@@ -1,0 +1,2 @@
+umount (${const char *FILE});
+$0

@@ -1,0 +1,2 @@
+parse_printf_format (${const char *TEMPLATE},${size_t N},${int *ARGTYPES});
+$0

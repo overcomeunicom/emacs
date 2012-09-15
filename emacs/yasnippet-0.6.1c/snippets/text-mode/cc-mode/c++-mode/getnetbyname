@@ -1,0 +1,2 @@
+getnetbyname(${const char *NAME});
+$0

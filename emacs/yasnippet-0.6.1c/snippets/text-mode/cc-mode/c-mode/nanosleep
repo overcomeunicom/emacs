@@ -1,0 +1,2 @@
+nanosleep (${const struct timespec *REQUESTED_TIME},${struct timespec *REMAINING});
+$0

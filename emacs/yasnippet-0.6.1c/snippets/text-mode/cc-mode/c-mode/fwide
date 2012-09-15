@@ -1,0 +1,2 @@
+fwide (${FILE *STREAM},${int MODE});
+$0

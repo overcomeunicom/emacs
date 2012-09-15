@@ -1,0 +1,2 @@
+strcpy(${char *restrict TO}, ${const char *restrict FROM});
+$0

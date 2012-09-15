@@ -1,0 +1,2 @@
+iconv_close (${iconv_t CD});
+$0

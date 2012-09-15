@@ -1,0 +1,2 @@
+bindtextdomain (${const char *DOMAINNAME},${const char *DIRNAME});
+$0

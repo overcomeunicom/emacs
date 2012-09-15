@@ -1,0 +1,2 @@
+mbsinit (${const mbstate_t *PS});
+$0

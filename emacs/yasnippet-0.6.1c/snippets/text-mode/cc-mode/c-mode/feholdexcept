@@ -1,0 +1,2 @@
+feholdexcept (${fenv_t *ENVP});
+$0

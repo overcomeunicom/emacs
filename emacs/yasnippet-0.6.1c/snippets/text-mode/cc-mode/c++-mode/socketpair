@@ -1,0 +1,2 @@
+socketpair(${$$(yas/choose-value '("AF_UNIX" "AF_INET" "AF_INET6" "AF_IPX" "AF_NETLINK" "AF_X25" "AF_AX25" "AF_ATMPVC" "AF_APPLETALK" "AF_PACKET"))}, ${$$(yas/choose-value '("SOCK_STREAM" "SOCK_DGRAM" "SOCK_SEQPACKET" "SOCK_RAW" "SOCK_RDM" "SOCK_PACKET" "SOCK_NONBLOCK" "SOCK_CLOEXEC"))}, ${int PROTOCOL}, ${int FILEDES[2]});
+$0

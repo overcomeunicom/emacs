@@ -1,0 +1,2 @@
+backtrace_symbols_fd (${void *const *BUFFER},${int SIZE},${int FD});
+$0

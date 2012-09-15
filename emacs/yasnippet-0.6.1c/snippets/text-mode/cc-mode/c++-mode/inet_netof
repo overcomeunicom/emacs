@@ -1,0 +1,2 @@
+inet_netof(${struct in_addr ADDR});
+$0

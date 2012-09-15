@@ -1,0 +1,2 @@
+vsyslog (${int FACILITY_PRIORITY},${char *FORMAT},${va_list arglist});
+$0

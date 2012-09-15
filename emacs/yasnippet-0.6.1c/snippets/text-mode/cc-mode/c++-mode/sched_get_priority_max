@@ -1,0 +1,2 @@
+sched_get_priority_max(${int *POLICY});
+$0

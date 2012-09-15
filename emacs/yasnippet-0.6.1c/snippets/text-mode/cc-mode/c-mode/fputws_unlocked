@@ -1,0 +1,2 @@
+fputws_unlocked (${const wchar_t *WS},${FILE *STREAM});
+$0

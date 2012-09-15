@@ -1,0 +1,2 @@
+fgetwc_unlocked (${FILE *STREAM});
+$0

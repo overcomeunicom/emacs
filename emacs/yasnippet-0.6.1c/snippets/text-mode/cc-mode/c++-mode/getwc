@@ -1,0 +1,2 @@
+getwc(${FILE *STREAM});
+$0

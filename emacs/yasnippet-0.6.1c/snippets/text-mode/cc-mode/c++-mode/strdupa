@@ -1,0 +1,2 @@
+strdupa(${const char *S});
+$0

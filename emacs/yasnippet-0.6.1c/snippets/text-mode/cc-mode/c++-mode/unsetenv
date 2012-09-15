@@ -1,0 +1,2 @@
+unsetenv(${const char *NAME});
+$0

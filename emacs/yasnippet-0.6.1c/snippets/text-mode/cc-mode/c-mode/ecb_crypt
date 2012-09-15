@@ -1,0 +1,2 @@
+ecb_crypt (${char *KEY},${char *BLOCKS},${unsigned LEN},${unsigned MODE});
+$0

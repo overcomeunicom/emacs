@@ -1,0 +1,2 @@
+getw (${FILE *STREAM});
+$0

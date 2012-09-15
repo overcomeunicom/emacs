@@ -1,0 +1,2 @@
+S_ISDIR (${mode_t M});
+$0

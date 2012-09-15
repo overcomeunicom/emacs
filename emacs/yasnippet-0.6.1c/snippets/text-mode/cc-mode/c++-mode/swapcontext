@@ -1,0 +1,2 @@
+swapcontext(${ucontext_t *restrict OUCP}, ${const ucontext_t *restrict UCP});
+$0

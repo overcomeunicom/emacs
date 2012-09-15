@@ -1,0 +1,2 @@
+calloc(${size_t COUNT}, ${size_t ELTSIZE});
+$0

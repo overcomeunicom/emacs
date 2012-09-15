@@ -1,0 +1,2 @@
+getrlimit64 (${int RESOURCE},${struct rlimit64 *RLP});
+$0

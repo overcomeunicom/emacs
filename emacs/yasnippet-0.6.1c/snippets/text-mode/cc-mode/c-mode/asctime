@@ -1,0 +1,2 @@
+asctime (${const struct tm *BROKENTIME});
+$0

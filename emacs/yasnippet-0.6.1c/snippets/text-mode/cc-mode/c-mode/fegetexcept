@@ -1,0 +1,2 @@
+fegetexcept (${int EXCEPTS});
+$0

@@ -1,0 +1,2 @@
+argz_add_sep(${char **ARGZ}, ${size_t *ARGZ_LEN}, ${const char *STR}, ${int DELIM});
+$0

@@ -1,0 +1,2 @@
+mktemp(${char *TEMPLATE});
+$0

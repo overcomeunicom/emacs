@@ -1,0 +1,2 @@
+pathconf (${const char *FILENAME},${int PARAMETER});
+$0

@@ -1,0 +1,2 @@
+sigaltstack (${const stack_t *restrict STACK},${stack_t *restrict OLDSTACK});
+$0

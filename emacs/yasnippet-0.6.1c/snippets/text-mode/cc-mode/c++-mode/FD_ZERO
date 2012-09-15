@@ -1,0 +1,2 @@
+FD_ZERO(${fd_set *SET});
+$0

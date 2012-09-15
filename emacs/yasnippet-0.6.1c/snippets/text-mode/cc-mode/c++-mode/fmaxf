@@ -1,0 +1,2 @@
+fmaxf(${float X}, ${float Y});
+$0

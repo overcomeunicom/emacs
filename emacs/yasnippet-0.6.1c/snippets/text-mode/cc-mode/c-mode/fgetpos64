@@ -1,0 +1,2 @@
+fgetpos64 (${FILE *STREAM},${fpos64_t *POSITION});
+$0

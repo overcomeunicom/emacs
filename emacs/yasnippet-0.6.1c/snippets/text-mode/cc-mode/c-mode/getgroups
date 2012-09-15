@@ -1,0 +1,2 @@
+getgroups (${int COUNT},${gid_t *GROUPS});
+$0

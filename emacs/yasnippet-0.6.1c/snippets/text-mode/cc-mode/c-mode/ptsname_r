@@ -1,0 +1,2 @@
+ptsname_r (${int FILEDES},${char *BUF},${size_t LEN});
+$0

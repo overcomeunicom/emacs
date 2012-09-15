@@ -1,0 +1,2 @@
+mcheck (${void(${*ABORTFN${)(${enum mcheck_status STATUS${)});
+$0

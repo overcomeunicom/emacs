@@ -1,0 +1,2 @@
+shutdown(${int SOCKET}, ${$$(yas/choose-value '("SHUT_RD" "SHUT_WR" "SHUT_RDWR"))});
+$0

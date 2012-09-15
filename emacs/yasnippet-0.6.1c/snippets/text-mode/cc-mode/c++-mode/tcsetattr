@@ -1,0 +1,2 @@
+tcsetattr(${int FILEDES}, ${int WHEN}, ${const struct termios *TERMIOS-P});
+$0

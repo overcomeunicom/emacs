@@ -1,0 +1,2 @@
+waitpid(${pid_t PID}, ${int *STATUS-PTR}, ${$$(yas/choose-value '("WNOHANG" "WUNTRACED" "WCONTINUED"))});
+$0

@@ -1,0 +1,2 @@
+isnanl(${long double X});
+$0

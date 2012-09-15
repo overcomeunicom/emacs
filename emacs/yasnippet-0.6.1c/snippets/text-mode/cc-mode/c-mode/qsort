@@ -1,0 +1,2 @@
+qsort (${void *ARRAY},${size_t COUNT},${size_t SIZE},${comparison_fn_t COMPARE});
+$0

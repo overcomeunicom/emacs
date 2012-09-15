@@ -1,0 +1,2 @@
+pthread_kill_other_threads_np (${VOID});
+$0

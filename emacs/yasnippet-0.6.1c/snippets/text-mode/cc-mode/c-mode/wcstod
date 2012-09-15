@@ -1,0 +1,2 @@
+wcstod (${const wchar_t *restrict STRING},${wchar_t **restrict TAILPTR});
+$0

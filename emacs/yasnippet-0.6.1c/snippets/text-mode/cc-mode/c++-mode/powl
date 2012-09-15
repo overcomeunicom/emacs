@@ -1,0 +1,2 @@
+powl(${long double BASE}, ${long double POWER});
+$0

@@ -1,0 +1,2 @@
+ftw64 (${const char *FILENAME},${__ftw64_func_t FUNC},${int DESCRIPTORS});
+$0

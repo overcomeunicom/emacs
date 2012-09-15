@@ -1,0 +1,2 @@
+ntp_gettime (${struct ntptimeval *TPTR});
+$0

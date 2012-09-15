@@ -1,0 +1,2 @@
+pthread_cleanup_push(${void(${*ROUTINE${)(${void *${)}, ${void *ARG});
+$0

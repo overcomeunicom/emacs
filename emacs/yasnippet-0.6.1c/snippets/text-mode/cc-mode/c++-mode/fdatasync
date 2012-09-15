@@ -1,0 +1,2 @@
+fdatasync(${int FILDES});
+$0

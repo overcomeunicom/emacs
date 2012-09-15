@@ -1,0 +1,2 @@
+sigprocmask(${$$(yas/choose-value '("SIG_BLOCK" "SIG_UNBLOCK" "SIG_SETMASK"))}, ${const sigset_t *restrict SET}, ${sigset_t *restrict OLDSET});
+$0

@@ -1,0 +1,2 @@
+mbrtowc(${wchar_t *restrict PWC}, ${const char *restrict S}, ${size_t N}, ${mbstate_t *restrict PS});
+$0

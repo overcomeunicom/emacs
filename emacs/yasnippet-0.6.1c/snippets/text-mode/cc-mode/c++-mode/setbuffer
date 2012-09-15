@@ -1,0 +1,2 @@
+setbuffer(${FILE *STREAM}, ${char *BUF}, ${size_t SIZE});
+$0

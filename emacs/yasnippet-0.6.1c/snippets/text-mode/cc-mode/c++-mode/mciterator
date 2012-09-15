@@ -1,0 +1,3 @@
+#name : mciterator
+# --
+map<${1:Key}, ${2:Value}>::const_iterator $0

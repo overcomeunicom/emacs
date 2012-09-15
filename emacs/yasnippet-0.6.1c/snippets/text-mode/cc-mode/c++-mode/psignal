@@ -1,0 +1,2 @@
+psignal(${int SIGNUM}, ${const char *MESSAGE});
+$0

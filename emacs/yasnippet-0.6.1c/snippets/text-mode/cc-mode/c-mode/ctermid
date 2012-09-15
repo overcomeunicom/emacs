@@ -1,0 +1,2 @@
+ctermid (${char *STRING});
+$0

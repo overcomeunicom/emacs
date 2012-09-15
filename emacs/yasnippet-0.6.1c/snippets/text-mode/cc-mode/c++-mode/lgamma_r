@@ -1,0 +1,2 @@
+lgamma_r(${double X}, ${int *SIGNP});
+$0

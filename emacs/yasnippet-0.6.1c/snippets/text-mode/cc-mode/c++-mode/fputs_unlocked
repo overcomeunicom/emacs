@@ -1,0 +1,2 @@
+fputs_unlocked(${const char *S}, ${FILE *STREAM});
+$0

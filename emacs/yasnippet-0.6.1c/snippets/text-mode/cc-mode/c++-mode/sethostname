@@ -1,0 +1,2 @@
+sethostname(${const char *NAME}, ${size_t LENGTH});
+$0

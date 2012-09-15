@@ -1,0 +1,2 @@
+putc (${int C},${FILE *STREAM});
+$0

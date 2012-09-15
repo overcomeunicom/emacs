@@ -1,0 +1,2 @@
+pthread_atfork(${void(${*PREPARE${)(${void${)}, ${void(${*PARENT${)(${void${)}, ${void(${*CHILD${)(${void${)});
+$0

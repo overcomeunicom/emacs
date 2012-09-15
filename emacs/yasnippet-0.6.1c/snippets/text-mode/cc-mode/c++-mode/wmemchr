@@ -1,0 +1,2 @@
+wmemchr(${const wchar_t *BLOCK}, ${wchar_t WC}, ${size_t SIZE});
+$0

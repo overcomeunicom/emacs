@@ -1,0 +1,2 @@
+readdir_r(${DIR *DIRSTREAM}, ${struct dirent *ENTRY}, ${struct dirent **RESULT});
+$0

@@ -1,0 +1,2 @@
+addmntent(${FILE *STREAM}, ${const struct mntent *MNT});
+$0

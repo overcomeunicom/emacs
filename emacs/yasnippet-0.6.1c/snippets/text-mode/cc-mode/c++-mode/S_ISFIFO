@@ -1,0 +1,2 @@
+S_ISFIFO(${mode_t M});
+$0

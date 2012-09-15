@@ -1,0 +1,2 @@
+puts (${const char *S});
+$0

@@ -1,0 +1,2 @@
+pwrite(${int FILEDES}, ${const void *BUFFER}, ${size_t SIZE}, ${off_t OFFSET});
+$0

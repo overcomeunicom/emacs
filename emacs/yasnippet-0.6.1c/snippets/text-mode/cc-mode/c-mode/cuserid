@@ -1,0 +1,2 @@
+cuserid (${char *STRING});
+$0

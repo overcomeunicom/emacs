@@ -1,0 +1,2 @@
+log2l (${long double X});
+$0

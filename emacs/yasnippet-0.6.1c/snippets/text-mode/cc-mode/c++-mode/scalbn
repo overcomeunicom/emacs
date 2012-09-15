@@ -1,0 +1,2 @@
+scalbn(${double X}, ${int n});
+$0

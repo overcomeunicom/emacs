@@ -1,0 +1,2 @@
+ftruncate (${int FD},${off_t LENGTH});
+$0

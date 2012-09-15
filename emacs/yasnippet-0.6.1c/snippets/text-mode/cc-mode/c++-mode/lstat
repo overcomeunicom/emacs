@@ -1,0 +1,2 @@
+lstat(${const char *FILENAME}, ${struct stat *BUF});
+$0

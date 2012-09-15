@@ -1,0 +1,2 @@
+truncate(${const char *FILENAME}, ${off_t LENGTH});
+$0

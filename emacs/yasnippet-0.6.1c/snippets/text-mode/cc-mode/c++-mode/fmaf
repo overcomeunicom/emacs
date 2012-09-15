@@ -1,0 +1,2 @@
+fmaf(${float X}, ${float Y}, ${float Z});
+$0

@@ -1,0 +1,2 @@
+inet_aton(${const char *NAME}, ${struct in_addr *ADDR});
+$0

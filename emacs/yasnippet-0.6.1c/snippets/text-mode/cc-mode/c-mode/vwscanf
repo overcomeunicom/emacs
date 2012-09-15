@@ -1,0 +1,2 @@
+vwscanf (${const wchar_t *TEMPLATE},${va_list AP});
+$0

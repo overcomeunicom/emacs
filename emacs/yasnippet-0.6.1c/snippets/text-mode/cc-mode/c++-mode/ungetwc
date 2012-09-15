@@ -1,0 +1,2 @@
+ungetwc(${wint_t WC}, ${FILE *STREAM});
+$0

@@ -1,0 +1,2 @@
+setpriority (${int CLASS},${int ID},${int NICEVAL});
+$0

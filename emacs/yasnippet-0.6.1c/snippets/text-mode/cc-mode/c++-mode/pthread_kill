@@ -1,0 +1,2 @@
+pthread_kill(${pthread_t THREAD}, ${int SIGNO});
+$0

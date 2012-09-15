@@ -1,0 +1,2 @@
+truncate64(${const char *NAME}, ${off64_t LENGTH});
+$0

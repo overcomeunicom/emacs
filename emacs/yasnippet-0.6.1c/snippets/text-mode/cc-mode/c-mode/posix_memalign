@@ -1,0 +1,2 @@
+posix_memalign (${void **MEMPTR},${size_t ALIGNMENT},${size_t SIZE});
+$0

@@ -1,0 +1,2 @@
+gethostbyname2(${const char *NAME},${$$(yas/choose-value '("AF_INET" "AF_INET6"))});
+$0

@@ -1,0 +1,2 @@
+fseek(${FILE *STREAM}, ${long int OFFSET}, ${$$(yas/choose-value '("SEEK_SET" "SEEK_END" "SEEK_CUR"))});
+$0

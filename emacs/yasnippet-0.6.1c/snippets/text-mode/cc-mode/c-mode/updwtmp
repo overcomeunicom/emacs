@@ -1,0 +1,2 @@
+updwtmp (${const char *WTMP_FILE},${const struct utmp *UTMP});
+$0

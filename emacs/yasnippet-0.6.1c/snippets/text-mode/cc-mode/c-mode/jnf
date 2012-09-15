@@ -1,0 +1,2 @@
+jnf (${int n},${float X});
+$0

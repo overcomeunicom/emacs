@@ -1,0 +1,2 @@
+copysignl(${long double X}, ${long double Y});
+$0

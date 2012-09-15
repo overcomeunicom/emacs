@@ -1,0 +1,2 @@
+rpmatch (${const char *RESPONSE});
+$0

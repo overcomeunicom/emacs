@@ -1,0 +1,2 @@
+wctob(${wint_t C});
+$0

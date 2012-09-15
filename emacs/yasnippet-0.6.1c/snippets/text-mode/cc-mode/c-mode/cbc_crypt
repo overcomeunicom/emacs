@@ -1,0 +1,2 @@
+cbc_crypt (${char *KEY},${char *BLOCKS},${unsigned LEN},${unsigned MODE},${char *IVEC});
+$0

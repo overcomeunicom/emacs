@@ -1,0 +1,2 @@
+initstate (${unsigned int SEED},${void *STATE},${size_t SIZE});
+$0

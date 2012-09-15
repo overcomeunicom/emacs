@@ -1,0 +1,2 @@
+unlockpt (${int FILEDES});
+$0

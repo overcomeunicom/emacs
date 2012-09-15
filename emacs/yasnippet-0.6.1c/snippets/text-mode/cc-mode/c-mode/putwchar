@@ -1,0 +1,2 @@
+putwchar (${wchar_t WC});
+$0

@@ -1,0 +1,2 @@
+offsetof (${TYPE},${MEMBER});
+$0

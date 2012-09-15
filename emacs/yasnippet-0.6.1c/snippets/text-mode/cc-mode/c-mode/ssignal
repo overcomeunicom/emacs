@@ -1,0 +1,2 @@
+ssignal (${int SIGNUM},${sighandler_t ACTION});
+$0

@@ -1,0 +1,2 @@
+fmax (${double X},${double Y});
+$0

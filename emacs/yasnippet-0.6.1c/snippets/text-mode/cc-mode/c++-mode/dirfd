@@ -1,0 +1,2 @@
+dirfd(${DIR *DIRSTREAM});
+$0

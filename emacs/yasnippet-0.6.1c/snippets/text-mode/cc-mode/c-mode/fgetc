@@ -1,0 +1,2 @@
+fgetc (${FILE *STREAM});
+$0

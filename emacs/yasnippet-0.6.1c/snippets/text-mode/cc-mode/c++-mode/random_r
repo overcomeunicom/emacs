@@ -1,0 +1,2 @@
+random_r(${struct random_data *restrict BUF}, ${int32_t *restrict RESULT});
+$0

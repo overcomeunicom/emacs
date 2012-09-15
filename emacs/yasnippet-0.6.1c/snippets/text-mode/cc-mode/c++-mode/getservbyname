@@ -1,0 +1,2 @@
+getservbyname(${const char *NAME}, ${const char *PROTO});
+$0

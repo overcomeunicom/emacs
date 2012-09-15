@@ -1,0 +1,2 @@
+pthread_setspecific (${pthread_key_t KEY},${const void *POINTER});
+$0

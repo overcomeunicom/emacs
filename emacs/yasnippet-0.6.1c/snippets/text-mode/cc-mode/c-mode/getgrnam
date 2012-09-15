@@ -1,0 +1,2 @@
+getgrnam (${const char *NAME});
+$0

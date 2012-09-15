@@ -1,0 +1,2 @@
+lrintf (${float X});
+$0

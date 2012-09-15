@@ -1,0 +1,2 @@
+tdelete (${const void *KEY},${void **ROOTP},${comparison_fn_t COMPAR});
+$0

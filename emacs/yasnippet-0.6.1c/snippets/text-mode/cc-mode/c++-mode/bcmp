@@ -1,0 +1,2 @@
+bcmp(${const void *A1}, ${const void *A2}, ${size_t SIZE});
+$0

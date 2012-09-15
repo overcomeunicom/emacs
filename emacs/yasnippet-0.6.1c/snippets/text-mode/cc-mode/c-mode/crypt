@@ -1,0 +1,2 @@
+crypt (${const char *KEY},${const char *SALT});
+$0

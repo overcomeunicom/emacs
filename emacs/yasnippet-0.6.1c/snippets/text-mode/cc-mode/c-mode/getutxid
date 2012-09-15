@@ -1,0 +1,2 @@
+getutxid (${const struct utmpx *ID});
+$0

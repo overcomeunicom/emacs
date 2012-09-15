@@ -1,0 +1,2 @@
+on_exit (${void(${*FUNCTION${)(${int STATUS},${void *ARG${)},${void *ARG});
+$0

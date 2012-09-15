@@ -1,0 +1,2 @@
+getpass (${const char *PROMPT});
+$0

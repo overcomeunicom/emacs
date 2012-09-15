@@ -1,0 +1,2 @@
+aio_fsync(${1:$$(yas/choose-value '("O_SYNC" "O_DSYNC"))}, ${struct aiocb *AIOCBP});
+$0

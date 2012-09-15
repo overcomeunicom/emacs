@@ -1,0 +1,2 @@
+pthread_mutex_init(${pthread_mutex_t *MUTEX}, ${const pthread_mutexattr_t *MUTEXATTR});
+$0

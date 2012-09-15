@@ -1,0 +1,2 @@
+adjtimex(${struct timex *TIMEX});
+$0

@@ -1,0 +1,2 @@
+fgetws (${wchar_t *WS},${int COUNT},${FILE *STREAM});
+$0

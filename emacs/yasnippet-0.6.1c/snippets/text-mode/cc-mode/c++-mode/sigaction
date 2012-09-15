@@ -1,0 +1,2 @@
+sigaction(${int SIGNUM}, ${const struct sigaction *restrict ACTION}, ${struct sigaction *restrict OLD-ACTION});
+$0

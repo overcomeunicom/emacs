@@ -1,0 +1,2 @@
+fread (${void *DATA},${size_t SIZE},${size_t COUNT},${FILE *STREAM});
+$0

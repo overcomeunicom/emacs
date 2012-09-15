@@ -1,0 +1,2 @@
+wmemcmp (${const wchar_t *A1},${const wchar_t *A2},${size_t SIZE});
+$0

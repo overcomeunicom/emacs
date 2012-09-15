@@ -1,0 +1,2 @@
+closedir(${DIR *DIRSTREAM});
+$0

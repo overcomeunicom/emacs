@@ -1,0 +1,2 @@
+vwarnx(${const char *FORMAT}, ${va_list});
+$0

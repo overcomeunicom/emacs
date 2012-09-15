@@ -1,0 +1,2 @@
+fsetpos64 (${FILE *STREAM},${const fpos64_t *POSITION});
+$0

@@ -1,0 +1,2 @@
+cpowf (${complex float BASE},${complex float POWER});
+$0

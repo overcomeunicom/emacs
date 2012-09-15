@@ -1,0 +1,2 @@
+kill (${pid_t PID},${int SIGNUM});
+$0

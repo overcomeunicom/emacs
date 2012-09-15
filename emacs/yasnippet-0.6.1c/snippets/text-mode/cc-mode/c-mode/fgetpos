@@ -1,0 +1,2 @@
+fgetpos (${FILE *STREAM},${fpos_t *POSITION});
+$0

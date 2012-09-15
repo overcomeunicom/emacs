@@ -1,0 +1,2 @@
+__fpurge (${FILE *STREAM});
+$0

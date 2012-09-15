@@ -1,0 +1,3 @@
+#name : a64l
+# --
+a64l(${const char *STRING});

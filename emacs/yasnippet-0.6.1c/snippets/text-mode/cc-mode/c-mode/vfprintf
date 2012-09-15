@@ -1,0 +1,2 @@
+vfprintf (${FILE *STREAM},${const char *TEMPLATE},${va_list AP});
+$0

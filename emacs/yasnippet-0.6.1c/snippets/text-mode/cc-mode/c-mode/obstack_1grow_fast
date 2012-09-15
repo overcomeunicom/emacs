@@ -1,0 +1,2 @@
+obstack_1grow_fast (${struct obstack *OBSTACK-PTR},${char C});
+$0

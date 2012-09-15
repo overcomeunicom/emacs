@@ -1,0 +1,2 @@
+obstack_printf (${struct obstack *OBSTACK},${const char *TEMPLATE},${...});
+$0

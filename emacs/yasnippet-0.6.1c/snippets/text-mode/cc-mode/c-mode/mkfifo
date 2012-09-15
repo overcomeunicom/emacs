@@ -1,0 +1,2 @@
+mkfifo (${const char *FILENAME},${mode_t MODE});
+$0

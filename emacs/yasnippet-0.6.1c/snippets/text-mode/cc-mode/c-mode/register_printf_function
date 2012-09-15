@@ -1,0 +1,2 @@
+register_printf_function (${int SPEC},${printf_function HANDLER-FUNCTION},${printf_arginfo_function ARGINFO-FUNCTION});
+$0

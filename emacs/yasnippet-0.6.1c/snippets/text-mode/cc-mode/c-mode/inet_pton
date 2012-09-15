@@ -1,0 +1,2 @@
+inet_pton (${int AF},${const char *CP},${void *BUF});
+$0

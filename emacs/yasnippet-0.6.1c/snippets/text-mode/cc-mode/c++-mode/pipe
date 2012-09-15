@@ -1,0 +1,2 @@
+pipe(${int FILEDES[2]});
+$0

@@ -1,0 +1,2 @@
+getrlimit (${int RESOURCE},${struct rlimit *RLP});
+$0

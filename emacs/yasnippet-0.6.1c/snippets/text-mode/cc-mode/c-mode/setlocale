@@ -1,0 +1,2 @@
+setlocale (${int CATEGORY},${const char *LOCALE});
+$0

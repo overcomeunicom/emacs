@@ -1,0 +1,2 @@
+atan2l(${long double Y}, ${long double X});
+$0

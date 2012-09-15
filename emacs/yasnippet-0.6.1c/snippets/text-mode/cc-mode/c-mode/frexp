@@ -1,0 +1,2 @@
+frexp (${double VALUE},${int *EXPONENT});
+$0

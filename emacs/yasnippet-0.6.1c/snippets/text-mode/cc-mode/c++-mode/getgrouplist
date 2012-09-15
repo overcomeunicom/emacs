@@ -1,0 +1,2 @@
+getgrouplist(${const char *USER}, ${gid_t GROUP}, ${gid_t *GROUPS}, ${int *NGROUPS});
+$0

@@ -1,0 +1,2 @@
+tcgetsid(${int FILDES});
+$0

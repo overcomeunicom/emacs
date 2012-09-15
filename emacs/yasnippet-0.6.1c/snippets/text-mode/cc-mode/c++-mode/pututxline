@@ -1,0 +1,2 @@
+pututxline(${const struct utmpx *UTMP});
+$0

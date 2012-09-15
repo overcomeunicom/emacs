@@ -1,0 +1,2 @@
+memmove(${void *TO}, ${const void *FROM}, ${size_t SIZE});
+$0

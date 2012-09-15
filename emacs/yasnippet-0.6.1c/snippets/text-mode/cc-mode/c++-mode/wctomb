@@ -1,0 +1,2 @@
+wctomb(${char *STRING}, ${wchar_t WCHAR});
+$0

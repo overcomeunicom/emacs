@@ -1,0 +1,2 @@
+seekdir (${DIR *DIRSTREAM},${off_t POS});
+$0

@@ -1,0 +1,2 @@
+wcstok(${wchar_t *NEWSTRING}, ${const char *DELIMITERS});
+$0

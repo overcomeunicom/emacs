@@ -1,0 +1,2 @@
+basename (${const char *FILENAME});
+$0

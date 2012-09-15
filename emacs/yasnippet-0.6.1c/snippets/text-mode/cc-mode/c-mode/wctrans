@@ -1,0 +1,2 @@
+wctrans (${const char *PROPERTY});
+$0

@@ -1,0 +1,2 @@
+WIFSIGNALED (${int STATUS});
+$0

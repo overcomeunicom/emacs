@@ -1,0 +1,2 @@
+va_end(${va_list AP});
+$0

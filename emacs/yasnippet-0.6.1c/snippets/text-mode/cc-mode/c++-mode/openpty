@@ -1,0 +1,2 @@
+openpty(${int *AMASTER}, ${int *ASLAVE}, ${char *NAME}, ${struct termios *TERMP}, ${struct winsize *WINP});
+$0

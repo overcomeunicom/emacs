@@ -1,0 +1,2 @@
+mbstowcs (${wchar_t *WSTRING},${const char *STRING},${size_t SIZE});
+$0

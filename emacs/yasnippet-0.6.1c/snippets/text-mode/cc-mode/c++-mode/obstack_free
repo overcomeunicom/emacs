@@ -1,0 +1,2 @@
+obstack_free(${struct obstack *OBSTACK-PTR}, ${void *OBJECT});
+$0

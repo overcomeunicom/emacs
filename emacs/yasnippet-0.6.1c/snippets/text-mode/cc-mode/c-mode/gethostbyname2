@@ -1,0 +1,2 @@
+gethostbyname2 (${const char *NAME},${int AF});
+$0

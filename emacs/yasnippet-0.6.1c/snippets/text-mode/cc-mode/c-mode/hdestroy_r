@@ -1,0 +1,2 @@
+hdestroy_r (${struct hsearch_data *HTAB});
+$0

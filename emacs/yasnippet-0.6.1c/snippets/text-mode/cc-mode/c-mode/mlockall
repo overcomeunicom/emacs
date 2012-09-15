@@ -1,0 +1,2 @@
+mlockall (${int FLAGS});
+$0

@@ -1,0 +1,2 @@
+getfsspec (${const char *NAME});
+$0

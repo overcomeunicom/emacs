@@ -1,0 +1,2 @@
+umount2(${const char *FILE}, ${$$(yas/choose-value '("MNT_FORCE" "MNT_DETACH" "MNT_EXPIRE"))});
+$0

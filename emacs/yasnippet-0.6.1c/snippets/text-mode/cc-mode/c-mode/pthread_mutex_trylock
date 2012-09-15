@@ -1,0 +1,2 @@
+pthread_mutex_trylock (${pthread_mutex_t *MUTEX});
+$0

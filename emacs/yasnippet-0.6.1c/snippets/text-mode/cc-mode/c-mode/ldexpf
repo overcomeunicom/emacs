@@ -1,0 +1,2 @@
+ldexpf (${float VALUE},${int EXPONENT});
+$0

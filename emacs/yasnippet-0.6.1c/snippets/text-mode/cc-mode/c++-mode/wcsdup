@@ -1,0 +1,2 @@
+wcsdup(${const wchar_t *WS});
+$0

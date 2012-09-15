@@ -1,0 +1,2 @@
+getpwent_r (${struct passwd *RESULT_BUF},${char *BUFFER},${int BUFLEN},${struct passwd **RESULT});
+$0

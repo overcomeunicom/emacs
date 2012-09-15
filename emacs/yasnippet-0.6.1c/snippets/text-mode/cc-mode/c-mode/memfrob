@@ -1,0 +1,2 @@
+memfrob (${void *MEM},${size_t LENGTH});
+$0

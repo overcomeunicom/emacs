@@ -1,0 +1,2 @@
+getnetgrent(${char **HOSTP}, ${char **USERP}, ${char **DOMAINP});
+$0

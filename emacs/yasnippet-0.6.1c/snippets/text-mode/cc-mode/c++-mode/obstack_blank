@@ -1,0 +1,2 @@
+obstack_blank(${struct obstack *OBSTACK-PTR}, ${int SIZE});
+$0

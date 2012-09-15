@@ -1,0 +1,2 @@
+IFTODT(${mode_t MODE});
+$0

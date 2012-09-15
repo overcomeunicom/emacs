@@ -1,0 +1,2 @@
+atoi (${const char *STRING});
+$0

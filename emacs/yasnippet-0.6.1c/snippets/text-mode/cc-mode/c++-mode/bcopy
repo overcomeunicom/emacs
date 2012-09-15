@@ -1,0 +1,2 @@
+bcopy(${const void *FROM}, ${void *TO}, ${size_t SIZE});
+$0

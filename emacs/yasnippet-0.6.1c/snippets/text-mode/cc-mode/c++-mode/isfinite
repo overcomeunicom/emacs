@@ -1,0 +1,2 @@
+isfinite(${_float-type_ X});
+$0

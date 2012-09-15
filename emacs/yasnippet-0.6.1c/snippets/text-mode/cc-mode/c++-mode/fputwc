@@ -1,0 +1,2 @@
+fputwc(${wchar_t WC}, ${FILE *STREAM});
+$0

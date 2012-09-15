@@ -1,0 +1,2 @@
+scalb (${double VALUE},${int EXPONENT});
+$0

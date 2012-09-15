@@ -1,0 +1,2 @@
+getitimer(${1:$$(yas/choose-value '("ITIMER_REAL" "ITIMER_VIRTUAL" "ITIMER_PROF"))}, ${struct itimerval *OLD});
+$0

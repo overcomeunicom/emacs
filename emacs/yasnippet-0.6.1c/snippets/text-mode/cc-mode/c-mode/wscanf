@@ -1,0 +1,2 @@
+wscanf (${const wchar_t *TEMPLATE},${...});
+$0

@@ -1,0 +1,2 @@
+scanf (${const char *TEMPLATE},${...});
+$0

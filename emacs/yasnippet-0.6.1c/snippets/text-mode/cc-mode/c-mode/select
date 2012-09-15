@@ -1,0 +1,2 @@
+select (${int NFDS},${fd_set *READ-FDS},${fd_set *WRITE-FDS},${fd_set *EXCEPT-FDS},${struct timeval *TIMEOUT});
+$0

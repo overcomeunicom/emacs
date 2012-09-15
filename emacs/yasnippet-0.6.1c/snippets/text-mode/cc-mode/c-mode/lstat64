@@ -1,0 +1,2 @@
+lstat64 (${const char *FILENAME},${struct stat64 *BUF});
+$0

@@ -1,0 +1,2 @@
+sem_destroy (${sem_t * SEM});
+$0

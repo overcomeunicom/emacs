@@ -1,0 +1,2 @@
+setstate_r (${char *restrict STATEBUF},${struct random_data *restrict BUF});
+$0

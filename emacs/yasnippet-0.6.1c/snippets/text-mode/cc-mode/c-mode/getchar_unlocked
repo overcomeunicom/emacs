@@ -1,0 +1,2 @@
+getchar_unlocked (${void});
+$0

@@ -1,0 +1,2 @@
+wcrtomb (${char *restrict S},${wchar_t WC},${mbstate_t *restrict PS});
+$0

@@ -1,0 +1,2 @@
+ftruncate64 (${int ID},${off64_t LENGTH});
+$0

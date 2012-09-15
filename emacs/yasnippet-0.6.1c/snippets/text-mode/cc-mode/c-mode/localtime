@@ -1,0 +1,2 @@
+localtime (${const time_t *TIME});
+$0

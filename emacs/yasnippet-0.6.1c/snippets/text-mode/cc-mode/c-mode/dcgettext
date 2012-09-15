@@ -1,0 +1,2 @@
+dcgettext (${const char *DOMAINNAME},${const char *MSGID},${int CATEGORY});
+$0

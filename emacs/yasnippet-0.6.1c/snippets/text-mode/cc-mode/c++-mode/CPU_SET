@@ -1,0 +1,2 @@
+CPU_SET(${int CPU}, ${cpu_set_t *SET});
+$0

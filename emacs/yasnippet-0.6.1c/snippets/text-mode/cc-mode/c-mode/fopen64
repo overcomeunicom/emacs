@@ -1,0 +1,2 @@
+fopen64 (${const char *FILENAME},${const char *OPENTYPE});
+$0

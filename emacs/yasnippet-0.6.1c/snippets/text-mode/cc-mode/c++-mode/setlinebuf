@@ -1,0 +1,2 @@
+setlinebuf(${FILE *STREAM});
+$0

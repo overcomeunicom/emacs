@@ -1,0 +1,2 @@
+inet_makeaddr (${uint32_t NET},${uint32_t LOCAL});
+$0

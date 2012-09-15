@@ -1,0 +1,2 @@
+getsubopt (${char **OPTIONP},${const char* const *TOKENS},${char **VALUEP});
+$0

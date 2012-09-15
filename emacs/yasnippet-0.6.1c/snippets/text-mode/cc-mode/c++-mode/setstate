@@ -1,0 +1,2 @@
+setstate(${void *STATE});
+$0

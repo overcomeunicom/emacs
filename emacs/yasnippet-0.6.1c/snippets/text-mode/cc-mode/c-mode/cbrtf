@@ -1,0 +1,2 @@
+cbrtf (${float X});
+$0

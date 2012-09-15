@@ -1,0 +1,2 @@
+fputc_unlocked (${int C},${FILE *STREAM});
+$0

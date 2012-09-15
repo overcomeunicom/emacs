@@ -1,0 +1,2 @@
+regfree(${regex_t *COMPILED});
+$0

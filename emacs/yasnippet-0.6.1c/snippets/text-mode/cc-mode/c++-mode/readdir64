@@ -1,0 +1,2 @@
+readdir64(${DIR *DIRSTREAM});
+$0

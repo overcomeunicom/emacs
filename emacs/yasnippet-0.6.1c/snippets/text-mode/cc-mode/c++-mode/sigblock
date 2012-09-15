@@ -1,0 +1,2 @@
+sigblock(${int MASK});
+$0

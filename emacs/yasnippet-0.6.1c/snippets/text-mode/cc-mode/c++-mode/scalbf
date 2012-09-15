@@ -1,0 +1,2 @@
+scalbf(${float VALUE}, ${int EXPONENT});
+$0

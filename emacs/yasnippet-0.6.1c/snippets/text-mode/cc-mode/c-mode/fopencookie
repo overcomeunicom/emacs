@@ -1,0 +1,2 @@
+fopencookie (${void *COOKIE},${const char *OPENTYPE},${cookie_io_functions_t IO-FUNCTIONS});
+$0

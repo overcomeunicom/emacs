@@ -1,0 +1,2 @@
+fprintf(${FILE *STREAM}, ${const char *TEMPLATE}, ${...});
+$0

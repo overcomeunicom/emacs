@@ -1,0 +1,2 @@
+get_nprocs (${void});
+$0

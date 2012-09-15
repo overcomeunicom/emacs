@@ -1,0 +1,2 @@
+frexpf (${float VALUE},${int *EXPONENT});
+$0

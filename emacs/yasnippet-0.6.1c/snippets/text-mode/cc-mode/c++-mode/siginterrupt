@@ -1,0 +1,2 @@
+siginterrupt(${int SIGNUM},${int FAILFLAG});
+$0

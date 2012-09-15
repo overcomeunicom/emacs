@@ -1,0 +1,2 @@
+putw(${int W}, ${FILE *STREAM});
+$0

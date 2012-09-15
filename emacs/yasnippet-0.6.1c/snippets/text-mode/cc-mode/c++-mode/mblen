@@ -1,0 +1,2 @@
+mblen(${const char *STRING}, ${size_t SIZE});
+$0

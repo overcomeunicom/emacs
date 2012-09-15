@@ -1,0 +1,2 @@
+rewinddir(${DIR *DIRSTREAM});
+$0

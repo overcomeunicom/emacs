@@ -1,0 +1,3 @@
+#name : literator
+# --
+list<${1:Key}>::iterator $0

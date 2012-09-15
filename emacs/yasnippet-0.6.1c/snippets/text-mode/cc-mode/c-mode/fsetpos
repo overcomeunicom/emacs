@@ -1,0 +1,2 @@
+fsetpos (${FILE *STREAM},${const fpos_t *POSITION});
+$0

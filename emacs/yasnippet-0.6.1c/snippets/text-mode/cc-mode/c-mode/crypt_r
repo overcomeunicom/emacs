@@ -1,0 +1,2 @@
+crypt_r (${const char *KEY},${const char *SALT},${struct crypt_data * DATA});
+$0

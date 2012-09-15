@@ -1,0 +1,2 @@
+aio_error(${const struct aiocb *AIOCBP});
+$0

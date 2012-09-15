@@ -1,0 +1,2 @@
+printf_size_info(${const struct printf_info *INFO}, ${size_t N}, ${int *ARGTYPES});
+$0

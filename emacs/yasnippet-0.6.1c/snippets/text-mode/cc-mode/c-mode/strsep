@@ -1,0 +1,2 @@
+strsep (${char **STRING_PTR},${const char *DELIMITER});
+$0

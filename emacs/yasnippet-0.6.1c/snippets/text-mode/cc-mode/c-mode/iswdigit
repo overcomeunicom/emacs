@@ -1,0 +1,2 @@
+iswdigit (${wint_t WC});
+$0

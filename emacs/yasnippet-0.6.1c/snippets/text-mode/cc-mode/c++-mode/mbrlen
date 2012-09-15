@@ -1,0 +1,2 @@
+mbrlen(${const char *restrict S}, ${size_t N}, ${mbstate_t *PS});
+$0

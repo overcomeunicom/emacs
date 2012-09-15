@@ -1,0 +1,2 @@
+sched_getparam(${pid_t PID}, ${const struct sched_param *PARAM});
+$0

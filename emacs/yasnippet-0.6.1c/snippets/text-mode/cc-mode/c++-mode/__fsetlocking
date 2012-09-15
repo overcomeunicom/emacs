@@ -1,0 +1,2 @@
+__fsetlocking(${FILE *STREAM}, ${$$(yas/choose-value '("FSETLOCKING_INTERNAL" "FSETLOCKING_BYCALLER" "FSETLOCKING_QUERY"))});
+$0

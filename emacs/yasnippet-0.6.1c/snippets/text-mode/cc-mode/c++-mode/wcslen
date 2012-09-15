@@ -1,0 +1,2 @@
+wcslen(${const wchar_t *WS});
+$0

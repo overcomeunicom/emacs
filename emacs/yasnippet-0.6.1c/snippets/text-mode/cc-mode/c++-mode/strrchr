@@ -1,0 +1,2 @@
+strrchr(${const char *STRING}, ${int C});
+$0

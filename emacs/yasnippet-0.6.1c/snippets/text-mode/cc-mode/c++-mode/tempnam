@@ -1,0 +1,2 @@
+tempnam(${const char *DIR}, ${const char *PREFIX});
+$0

@@ -1,0 +1,2 @@
+regexec (${regex_t *COMPILED},${char *STRING},${size_t NMATCH},${regmatch_t MATCHPTR []},${int EFLAGS});
+$0

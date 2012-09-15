@@ -1,0 +1,2 @@
+getdomainnname(${char *NAME}, ${size_t LENGTH});
+$0

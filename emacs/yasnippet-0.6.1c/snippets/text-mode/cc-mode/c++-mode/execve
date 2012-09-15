@@ -1,0 +1,2 @@
+execve(${const char *FILENAME}, ${char *const ARGV[]}, ${char *const ENV[]});
+$0

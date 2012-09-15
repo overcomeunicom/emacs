@@ -1,0 +1,2 @@
+erand48_r (${unsigned short int XSUBI[3]},${struct drand48_data *BUFFER},${double *RESULT});
+$0

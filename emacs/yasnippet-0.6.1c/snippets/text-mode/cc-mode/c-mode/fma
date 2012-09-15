@@ -1,0 +1,2 @@
+fma (${double X},${double Y},${double Z});
+$0

@@ -1,0 +1,2 @@
+vswscanf(${const wchar_t *S}, ${const wchar_t *TEMPLATE}, ${va_list AP});
+$0

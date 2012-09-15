@@ -1,0 +1,2 @@
+fegetexceptflag (${fexcept_t *FLAGP},${int EXCEPTS});
+$0

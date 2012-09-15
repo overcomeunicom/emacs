@@ -1,0 +1,2 @@
+getutxline(${const struct utmpx *LINE});
+$0

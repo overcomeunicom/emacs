@@ -1,0 +1,2 @@
+fclose (${FILE *STREAM});
+$0

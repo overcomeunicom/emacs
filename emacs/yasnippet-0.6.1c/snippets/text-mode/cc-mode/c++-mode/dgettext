@@ -1,0 +1,2 @@
+dgettext(${const char *DOMAINNAME}, ${const char *MSGID});
+$0

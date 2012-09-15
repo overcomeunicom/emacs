@@ -1,0 +1,2 @@
+lgammal_r (${long double X},${int *SIGNP});
+$0

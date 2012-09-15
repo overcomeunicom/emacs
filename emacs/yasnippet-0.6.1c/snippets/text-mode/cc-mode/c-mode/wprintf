@@ -1,0 +1,2 @@
+wprintf (${const wchar_t *TEMPLATE},${...});
+$0

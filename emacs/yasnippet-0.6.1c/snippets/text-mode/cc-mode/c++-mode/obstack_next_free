@@ -1,0 +1,2 @@
+obstack_next_free(${struct obstack *OBSTACK-PTR});
+$0

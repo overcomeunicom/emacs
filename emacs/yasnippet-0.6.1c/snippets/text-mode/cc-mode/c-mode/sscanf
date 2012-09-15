@@ -1,0 +1,2 @@
+sscanf (${const char *S},${const char *TEMPLATE},${...});
+$0

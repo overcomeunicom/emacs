@@ -1,0 +1,3 @@
+#name : sciterator
+# --
+set<${1:Key}>::const_iterator $0

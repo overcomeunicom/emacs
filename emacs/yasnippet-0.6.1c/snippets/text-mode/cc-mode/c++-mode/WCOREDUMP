@@ -1,0 +1,2 @@
+WCOREDUMP(${int STATUS});
+$0

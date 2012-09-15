@@ -1,0 +1,2 @@
+strstr (${const char *HAYSTACK},${const char *NEEDLE});
+$0

@@ -1,0 +1,2 @@
+wordexp (${const char *WORDS},${wordexp_t *WORD-VECTOR-PTR},${int FLAGS});
+$0

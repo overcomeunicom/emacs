@@ -1,0 +1,2 @@
+wcscasecmp (${const wchar_t *WS1},${const wchar_T *WS2});
+$0

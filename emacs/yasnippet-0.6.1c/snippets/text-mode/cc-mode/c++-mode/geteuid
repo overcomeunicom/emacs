@@ -1,0 +1,2 @@
+geteuid(${void});
+$0

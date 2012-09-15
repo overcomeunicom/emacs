@@ -1,0 +1,2 @@
+getopt(${int ARGC}, ${char **ARGV}, ${const char *OPTIONS});
+$0

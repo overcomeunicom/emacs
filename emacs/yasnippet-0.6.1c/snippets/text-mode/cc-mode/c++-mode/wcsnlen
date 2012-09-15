@@ -1,0 +1,2 @@
+wcsnlen(${const wchar_t *WS}, ${size_t MAXLEN});
+$0

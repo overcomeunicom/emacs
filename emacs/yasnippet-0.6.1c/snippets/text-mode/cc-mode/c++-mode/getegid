@@ -1,0 +1,2 @@
+getegid(${void});
+$0

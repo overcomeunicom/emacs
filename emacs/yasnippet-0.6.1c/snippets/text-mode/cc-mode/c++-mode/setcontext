@@ -1,0 +1,2 @@
+setcontext(${const ucontext_t *UCP});
+$0

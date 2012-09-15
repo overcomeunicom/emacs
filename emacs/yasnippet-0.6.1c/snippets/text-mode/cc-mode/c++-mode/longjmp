@@ -1,0 +1,2 @@
+longjmp(${jmp_buf STATE}, ${int VALUE});
+$0

@@ -1,0 +1,2 @@
+ferror_unlocked(${FILE *STREAM});
+$0

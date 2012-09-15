@@ -1,0 +1,2 @@
+strxfrm (${char *restrict TO},${const char *restrict FROM},${size_t SIZE});
+$0

@@ -1,0 +1,2 @@
+tdestroy (${void *VROOT},${__free_fn_t FREEFCT});
+$0

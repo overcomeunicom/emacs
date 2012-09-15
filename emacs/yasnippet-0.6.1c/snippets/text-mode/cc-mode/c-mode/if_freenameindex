@@ -1,0 +1,2 @@
+if_freenameindex (${struct if_nameindex *ptr});
+$0

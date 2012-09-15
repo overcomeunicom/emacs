@@ -1,0 +1,2 @@
+stime(${time_t *NEWTIME});
+$0

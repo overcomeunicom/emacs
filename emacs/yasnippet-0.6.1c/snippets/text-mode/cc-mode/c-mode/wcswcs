@@ -1,0 +1,2 @@
+wcswcs (${const wchar_t *HAYSTACK},${const wchar_t *NEEDLE});
+$0

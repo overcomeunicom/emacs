@@ -1,0 +1,2 @@
+towupper (${wint_t WC});
+$0

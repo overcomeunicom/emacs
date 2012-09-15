@@ -1,0 +1,2 @@
+tcflush(${int FILEDES},${int QUEUE});
+$0

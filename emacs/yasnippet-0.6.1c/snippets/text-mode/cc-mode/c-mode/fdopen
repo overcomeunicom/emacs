@@ -1,0 +1,2 @@
+fdopen (${int FILEDES},${const char *OPENTYPE});
+$0

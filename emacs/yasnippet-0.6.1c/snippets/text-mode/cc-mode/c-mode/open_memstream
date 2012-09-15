@@ -1,0 +1,2 @@
+open_memstream (${char **PTR},${size_t *SIZELOC});
+$0

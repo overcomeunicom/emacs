@@ -1,0 +1,2 @@
+fputs(${const char *S}, ${FILE *STREAM});
+$0

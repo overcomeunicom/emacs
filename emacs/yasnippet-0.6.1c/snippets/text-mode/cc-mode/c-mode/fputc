@@ -1,0 +1,2 @@
+fputc (${int C},${FILE *STREAM});
+$0

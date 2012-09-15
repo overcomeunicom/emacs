@@ -1,0 +1,2 @@
+modff (${float VALUE},${float *INTEGER-PART});
+$0

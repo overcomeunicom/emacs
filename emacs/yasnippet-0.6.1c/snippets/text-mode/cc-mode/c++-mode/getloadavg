@@ -1,0 +1,2 @@
+getloadavg(${double LOADAVG[]}, ${int NELEM});
+$0

@@ -118,6 +118,9 @@
         ((looking-at "\\s\)") (forward-char 1) (backward-list 1))
         (t (self-insert-command (or arg 1)))))
 
+;;;;;test whether page is useful
+  
+;;;;;;;;;end test
 ;; kill buffer
 (setq buffer-to-delete '("\*Shell Command Output\*" "\*Completions\*" "\*Backtrace\*" "\*cscope\*"))
 (run-at-time "1" 20
@@ -282,6 +285,7 @@
   (setq c-comment-only-line-offset 0)
   (imenu-add-menubar-index) 
   (which-function-mode) ;; turn which-function-mode on, show the current function name in mode line
+  
 )
 
 (add-hook 'c-mode-hook 'linux-cpp-mode)
@@ -323,3 +327,61 @@
 (global-set-key [(control meta f3)] 'highlight-symbol-query-replace)
 
 (require 'multi-term)
+
+(require 'smooth-scroll)
+(setq scroll-step 1)
+(setq scroll-conservatively 10000)
+(setq auto-window-vscroll nil)
+
+;; 检查为啥函数的开始和关闭都不是对齐的。。。
+(c-set-offset 'inline-open 0)
+(c-set-offset 'friend '-)
+(c-set-offset 'substatement-open 0)
+(c-set-offset 'defun-open 0)
+(c-set-offset 'defun-close 0)
+
+(setq c-macro-shrink-window-flag t)
+(setq c-macro-preprocessor "cpp")
+(setq c-macro-cppflags " ")
+(setq c-macro-prompt-flag t)
+(setq hs-minor-mode t)
+(setq abbrev-mode t)
+
+(add-to-list 'load-path "~/emacs/doxymacs")
+(require 'doxymacs)
+(add-hook 'c-mode-common-hook 'doxymacs-mode)
+
+
+;; (defconst doxymacs-C++-file-comment-template
+;;  '(
+;;    "/******************************************************************************" > n
+;;    "*" > n
+;;    "* " "FILE NAME   :"
+;;    (if (buffer-file-name)
+;;        (file-name-nondirectory (buffer-file-name))
+;;      "") > n
+;;    "*" > n
+;;    "*" " DESCRIPTION :"> n
+;;    "*" > n
+;;    "*" "    "> n
+;;    "*" > n
+;;    "*" " HISTORY     :"> n
+;;    "*" > n
+;;    "*" "    See Log at end of file"> n
+;;    "*" > n
+;;    "*" "Copyright (c) 2006, VIA Technologies, Inc."> n
+;;    "*" "******************************************************************************/"> n)
+;;  "Default C++-style template for file documentation.")
+
+
+(add-to-list 'load-path "~/emacs/yasnippet-0.6.1c")
+(require 'yasnippet)
+(setq yas/root-directory "~/emacs/yasnippet-0.6.1c/snippets")
+(yas/load-directory yas/root-directory)
+;(require 'yasnippet-bundle)
+(require 'dropdown-list)
+(setq yas/prompt-functions '(yas/dropdown-prompt
+                             yas/ido-prompt
+                             yas/completing-prompt))
+
+

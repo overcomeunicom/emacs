@@ -1,0 +1,2 @@
+rmdir(${const char *FILENAME});
+$0

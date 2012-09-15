@@ -1,0 +1,2 @@
+getgrgid(${gid_t GID});
+$0

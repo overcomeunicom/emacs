@@ -1,0 +1,2 @@
+encrypt (${char *BLOCK},${int EDFLAG});
+$0

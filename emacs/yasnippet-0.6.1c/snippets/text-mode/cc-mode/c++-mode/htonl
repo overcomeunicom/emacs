@@ -1,0 +1,2 @@
+htonl(${uint32_t HOSTLONG});
+$0

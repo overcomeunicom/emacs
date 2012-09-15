@@ -1,0 +1,2 @@
+fseeko64 (${FILE *STREAM},${off64_t OFFSET},${int WHENCE});
+$0

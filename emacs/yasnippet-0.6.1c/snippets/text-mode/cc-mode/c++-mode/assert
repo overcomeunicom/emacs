@@ -1,0 +1,2 @@
+assert(${int EXPRESSION});
+$0

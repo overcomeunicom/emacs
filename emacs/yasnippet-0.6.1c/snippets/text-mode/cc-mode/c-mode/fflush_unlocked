@@ -1,0 +1,2 @@
+fflush_unlocked (${FILE *STREAM});
+$0

@@ -1,0 +1,2 @@
+regerror(${int ERRCODE}, ${regex_t *COMPILED}, ${char *BUFFER}, ${size_t LENGTH});
+$0

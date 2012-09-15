@@ -1,0 +1,2 @@
+nftw (${const char *FILENAME},${__nftw_func_t FUNC},${int DESCRIPTORS},${int FLAG});
+$0

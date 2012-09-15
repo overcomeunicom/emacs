@@ -1,0 +1,2 @@
+modfl(${long double VALUE}, ${long double *INTEGER-PART});
+$0

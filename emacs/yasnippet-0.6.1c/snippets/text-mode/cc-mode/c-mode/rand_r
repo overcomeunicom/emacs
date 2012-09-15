@@ -1,0 +1,2 @@
+rand_r (${unsigned int *SEED});
+$0

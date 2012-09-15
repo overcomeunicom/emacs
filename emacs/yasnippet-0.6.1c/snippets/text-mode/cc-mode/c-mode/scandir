@@ -1,0 +1,2 @@
+scandir (${const char *DIR},${struct dirent ***NAMELIST},${int(${*SELECTOR${)(${const struct dirent *${)},${int(${*CMP${)(${const void *},${const void *${)});
+$0

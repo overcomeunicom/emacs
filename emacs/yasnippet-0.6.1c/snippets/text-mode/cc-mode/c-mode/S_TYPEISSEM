@@ -1,0 +1,2 @@
+S_TYPEISSEM (${struct stat *S});
+$0

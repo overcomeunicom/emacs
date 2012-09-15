@@ -1,0 +1,2 @@
+FD_ISSET(${int FILEDES}, ${const fd_set *SET});
+$0
