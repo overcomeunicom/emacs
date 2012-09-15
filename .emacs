@@ -322,3 +322,4 @@
 (global-set-key [(meta f3)] 'highlight-symbol-prev)
 (global-set-key [(control meta f3)] 'highlight-symbol-query-replace)
 
+(require 'multi-term)
