@@ -2,39 +2,41 @@
 (add-to-list 'load-path "~/emacs")
 
 (custom-set-variables
-  ;; custom-set-variables was added by Custom.
-  ;; If you edit it by hand, you could mess it up, so be careful.
-  ;; Your init file should contain only one such instance.
-  ;; If there is more than one, they won't work right.
- '(inhibit-startup-message t)
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
  '(auto-fill-mode t)
  '(blink-cursor-mode t)
  '(case-fold-search t)
  '(column-number-mode t)
  '(cua-mode nil nil (cua-base))
+ '(default-tab-width 4 t)
+ '(display-time-24hr-format t)
+ '(display-time-day-and-date t)
  '(display-time-mode t)
  '(global-font-lock-mode t)
  '(global-hl-line-mode t)
  '(global-linum-mode t)
  '(icomplete-mode t)
+ '(indent-tabs-mode nil)
+ '(inhibit-startup-screen t)
+ '(jde-help-docsets (quote (("JDK API" "/opt/jdk1.7.0_07/docs/api" nil))))
+ '(jde-jdk-registry (quote (("1.7.0_07" . "/opt/jdk1.7.0_07"))))
+ '(kill-whole-line t)
  '(line-number-mode t)
  '(menu-bar-mode t)
+ '(mouse-yank-at-point t)
  '(scroll-bar-mode nil)
- '(kill-whole-line t)
+ '(scroll-conservatively 10000)
+ '(scroll-margin 3)
+ '(scroll-step 1)
  '(show-paren-mode t)
+ '(show-paren-style (quote parenthesis))
  '(speedbar-default-position (quote left))
  '(tool-bar-mode nil)
- '(display-time-24hr-format t)
- '(display-time-day-and-date t)
- '(mouse-yank-at-point t)
- '(scroll-step 1)
- '(scroll-margin 3)
- '(scroll-conservatively 10000)
- '(show-paren-style 'parenthesis)
- '(uniquify-buffer-name-style 'forward)
- '(indent-tabs-mode nil)
- '(default-tab-width 4)
- '(transient-mark-mode t))
+ '(transient-mark-mode t)
+ '(uniquify-buffer-name-style (quote forward)))
 ;; no yes-or-not, just y-or-n
 (defalias 'yes-or-no-p 'y-or-n-p)
 
@@ -291,8 +293,6 @@
 (add-hook 'c-mode-hook 'linux-cpp-mode)
 (add-hook 'c++-mode-hook 'linux-cpp-mode) 
 
-
-
 (setq ibuffer-saved-filter-groups
       (quote (("default"
                ("dired" (mode . dired-mode))
@@ -372,16 +372,25 @@
 ;;    "*" "Copyright (c) 2006, VIA Technologies, Inc."> n
 ;;    "*" "******************************************************************************/"> n)
 ;;  "Default C++-style template for file documentation.")
-
-
 (add-to-list 'load-path "~/emacs/yasnippet-0.6.1c")
 (require 'yasnippet)
 (setq yas/root-directory "~/emacs/yasnippet-0.6.1c/snippets")
 (yas/load-directory yas/root-directory)
-;(require 'yasnippet-bundle)
+
 (require 'dropdown-list)
 (setq yas/prompt-functions '(yas/dropdown-prompt
                              yas/ido-prompt
                              yas/completing-prompt))
 
-
+(add-to-list 'load-path "~/emacs/jdee-2.4.0.1/lisp")
+(add-to-list 'load-path "~/emacs/elib-1.0")
+(setenv "JAVA_HOME" "/opt/jdk1.7.0_07")
+(setenv "CLASSPATH" ".:/opt/jdk1.7.0_07/tools.jar:/opt/jdk1.7.0_07/dt.jar")
+(require 'jde)
+(defun screen-width nil -1)
+(define-obsolete-function-alias 'make-local-hook 'ignore "21.1")
+(add-hook 'jde-mode-hook
+          (lambda()
+	    (local-set-key [(control return)] 'jde-complete)
+	    (local-set-key [(shift return)] 'jde-complete-minibuf)
+	    (local-set-key [(meta return)] 'jde-complete-in-line)))
