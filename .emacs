@@ -171,6 +171,13 @@
 (require 'auto-complete-config)
 (add-to-list 'ac-dictionary-directories "~/emacs/auto-complete-1.3.1/dict")
 (ac-config-default)
+(setq ac-use-menu-map t) ;;只在菜单出现的出时进行C-n C-p 选择菜单的操作
+(define-key ac-menu-map "\C-n" 'ac-next) ;;选择下一个候选项
+(define-key ac-menu-map "\C-p" 'ac-previous)
+(setq ac-menu-height 20);;设置菜单栏的高度20行
+(setq ac-dwim  t)
+
+
 
 ;; cedet
 (add-to-list 'load-path "~/emacs/cedet-1.1")
@@ -379,6 +386,7 @@
 
 (require 'dropdown-list)
 (setq yas/prompt-functions '(yas/dropdown-prompt
+                             yas/x-prompt
                              yas/ido-prompt
                              yas/completing-prompt))
 
@@ -394,3 +402,11 @@
 	    (local-set-key [(control return)] 'jde-complete)
 	    (local-set-key [(shift return)] 'jde-complete-minibuf)
 	    (local-set-key [(meta return)] 'jde-complete-in-line)))
+
+(add-to-list 'ac-modes 'jde-mode)
+(add-to-list 'ac-modes 'java-mode)
+
+(add-to-list 'load-path "~/emacs/ajc-java-complete")
+(require 'ajc-java-complete-config)
+(add-hook 'java-mode-hook 'ajc-java-complete-mode)
+(add-hook 'find-file-hook 'ajc-4-jsp-find-file-hook)
